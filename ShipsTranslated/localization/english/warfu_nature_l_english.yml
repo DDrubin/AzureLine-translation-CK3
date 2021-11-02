@@ -1,0 +1,36 @@
+﻿ l_english:
+ rule_waifu_protrait_natural:0 "Paperman will not lose"
+ setting_waifu_protrait_natural_on_desc:0 "When the waifu character is about to die, unexpected things will happen"
+ setting_waifu_protrait_natural_on:0 "Enable"
+ setting_waifu_protrait_natural_off_desc:0 "Die when you grow old and die naturally."
+ setting_waifu_protrait_natural_off:0 "Disable"
+ 
+ waifu_death_management.0001.t:0 "Death is here!"
+ waifu_death_management.0001.desc:0 "As usual, you dragged a heavy and tired body back to the bedroom late at night. The same is true today. But unlike in the past, you will fall asleep after a day of exhaustion. Recently, sleep seems to be deliberately avoiding you. Normally. You are sitting in your study, sluggishly moving the chess pieces on the chessboard, taking a sip of red wine from time to time, hoping to regain sleepiness by relying on alcohol. Suddenly, you hear someone walking behind you, and you turn around on the chair. Seeing it. [Defender.GetTitledFirstName] took a walk with you a few days ago. "Good evening, [attacker.GetTitledFirstName]. I haven’t introduced myself yet. I’m the god of death, I’m here to harvest your soul." You see [defender.GetTitledFirstName] holds a shiny sickle in his hand..."
+
+ waifu_death_management.1.option.aa.effect.success.desc:0 "Death will end the hunt"
+ waifu_death_management.1.option.ab.effect.success.desc:0 "Reaper ended the hunt, but it did not end completely"
+ waifu_death_management.1.option.ac.effect.success.desc:0 "Death is the end of all life"
+ waifu_death_management.1.option.a:0 "Try to convince Death"
+ waifu_death_management.1.option.b:0 "Do you want a round of Gwent cards?"
+ waifu_death_management.1.option.c:0 "In fact, I still have some work to do"
+ waifu_death_management.1.option.d:0 "Waifu_death_management.1.option.d:0"
+ waifu_death_management.1.option.e:0 "Let me see the combat performance of Reaper!"
+ waifu_death_management.1.option.f:0 "Who killed me, and who did I kill"
+ waifu_death_management.1.option.g:0 "You don't need 007 if you die"
+  
+ waifu_death_management.2.t:0 "Death Butterfly!"
+ waifu_death_management.2.desc:0 "In the last few minutes, time seems to freeze. Random and incoherent thoughts flash in your mind. The places you have been, the friends you haven’t seen in years, the dreams you gave up . Is it too late...? Suddenly, you saw it. That step. Stretching out your trembling hand, you took the bishop across the entire chessboard, and put down the chess pieces with a soft muffled sound. "General," you whispered softly. Tao, looking at [defender.GetTitledFirstName]'s eyes. For the first time tonight, you can really see these eyes clearly, making you cry to the bone. This is not the mortal [defender.GetTitledFirstName], but the dead [defender.GetTitledFirstName]. I will give you one more chance, [defender.GetSheHe] sighed. "It's no big deal, everyone will follow me in the end." Then, you blink, [defender.GetSheHe] puts a bowl of omelet rice in front of you. "Next time, we will meet again." Then, the death girl disappeared before your eyes. You look at the bowl of fragrant omelet rice in a shock, and you pick up the spoon awkwardly. "
+  waifu_death_management.2.option.a:0 "The taste is super, with the smell of new life."
+  
+ waifu_death_management.3.t:0 "Death is here!"
+ waifu_death_management.3.desc:0 "In the last few steps, time seems to freeze. Your thinking is chaotic and moves slowly, as if you are passing through a thick syrup. Random and incoherent thoughts flash in your mind. You go Where you’ve been, friends you haven’t seen in years, dreams you gave up. So many things have not been completed, it’s probably too late to pick it up now. "General." Your head suddenly lifted up, staring at [defender .GetFirstName]'s eyes. For the first time tonight, you can really see these eyes clearly, which makes you freeze to your bones. The figure in front of you is not an ordinary [defender.GetManWoman], or even [defender.GetManWoman] at all. This is death, and you have not completely won from [defender.GetSheHe]. "It's time, [attacker.GetFirstName]", [defender.GetSheHe] sighed with satisfaction. "Your performance is not bad, but long sleep is still waiting for you." The boundless darkness envelops you. When you wake up again, you feel a splitting headache. Death did not completely harvest your life, but took you away. Half of the soul, your death has been irreversible. "
+ waifu_death_management.3.option.a:0 "I'm still alive, temporarily."
+ 
+ Akizuki_Kanna:0 "Mingyue Kanna"
+ trait_Akizuki_Kanna:0 "Mingyue Kanna"
+ trait_Akizuki_Kanna_desc:0 "Mingyue Kanna"
+ trait_Akizuki_Kanna_character_desc:0 "I don't know how old I am, I am a god of death."
+ 
+ egg_boarding_modifier:0 "Egg Boarding Rice"
+ egg_boarding_modifier_desc:0 "The omelet made by Grim Reaper is so delicious and has magical powers. Will she be able to eat the same omelet the next time she visits?"

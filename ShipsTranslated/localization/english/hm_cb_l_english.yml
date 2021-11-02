@@ -1,0 +1,605 @@
+﻿l_english:
+  hm_strike_status.0001.t:0 "Failed to get into position"
+ hm_strike_status.0001.desc:0 "In this three-dimensional assault, some of our troops are not ready yet. They are:"
+ hm_strike_status.0001.a:0 "Heavy Cavalry, Light Cavalry"
+ hm_strike_status.0001.b:0 "Light Cavalry, Skirmisher"
+ hm_strike_status.0001.c:0 "Archers, Skirmishers"
+ hm_strike_status.0001.d:0 "Pikemen, Heavy Infantry"
+ hm_strike_status.0001.e:0 "Heavy Cavalry, Heavy Infantry"
+ 
+ hm_strike_status.0002.t:0 "Enemy's Support"
+ hm_strike_status.0002.desc:0 "The enemy sent a reserve force to come to support. The number of the force is:"
+ hm_strike_status.0002.a:0 "Cavalry 1st Division"
+ hm_strike_status.0002.b:0 "24th Infantry Division"
+ hm_strike_status.0002.c:0 "Highland Brigade"
+ hm_strike_status.0002.d:0 "Asian Brigade"
+ hm_strike_status.0002.e:0 "Local Auxiliary Army"
+ 
+ hm_strike_status.0003.t:0 "Take a strategy"
+ hm_strike_status.0003.desc:0 "In this three-dimensional assault, what strategy should we adopt?"
+ hm_strike_status.0003.a:0 "Offensive Strategy"
+ hm_strike_status.0003.b:0 "Defense Strategy"
+ hm_strike_status.0003.c:0 "Innovation Strategy"
+ hm_strike_status.0003.d:0 "Conservative Strategy"
+ hm_strike_status.0003.e:0 "Navy Strategy"
+ hm_strike_status.0003.f:0 "Maneuvering Strategy"
+ 
+ hm_strike_WAR_NAME:0 "Three-dimensional Strike"
+ hm_strike_WAR_NAME_BASE:0 "Three-dimensional Strike"
+ hm_strike_CB_NAME:0 "Three-dimensional Strike"
+ hm_strike_cb_victory_desc_attacker:0 "You seize all the titles belonging to the target title [de_jure|E] in the [defender.GetShortUINamePossessive] domain."
+ hm_strike_cb_victory_desc:0 "You seize all the titles belonging to the target title [de_jure|E] in the [defender.GetShortUINamePossessive] domain"
+ hm_vassalization_cb_NAME:0 "combined server"
+ HM_VASSALIZATION_WAR_NAME:0 "Combined Server"
+ HM_VASSALIZATION_WAR_NAME_BASE:0 "Combined Server"
+ HM_VASSALIZATION_CB_NAME:0 "Merge Server"
+ hm_argue_WAR_NAME:0 "Deterrent Operation"
+ hm_argue_WAR_NAME_BASE:0 "Deterrent Operation"
+ hm_argue_CB_NAME:0 "Deterrent Operation"
+ hm_argue_cb_victory_desc_attacker:0 "You will humiliate [defender.GetShortUINamePossessive] to gain more clan prestige."
+ hm_argue_cb_victory_desc:0 "You will humiliate [defender.GetShortUINamePossessive] to gain more clan prestige."
+ event_hm_troop_default_name:0 "Teaching Team"
+ XIBIXIBI_INVASION_WAR_NAME:0 "[ATTACKER.GetFirstName] Mutiny [TITLE.GetName]."
+ XIBIXIBI_INVASION_EMPIRE_CB_NAME:0 "[ATTACKER.GetFirstName] Mutiny [TITLE.GetName]."
+ 
+ HMIN.0001.t:0 "Capture Rome"
+ HMIN.0001.desc:0 "Great Rome, where the crown of the Holy See is, with the grand hammer of the phantom and cute army led by [kechengzhe.GetTitledFirstName], it is inevitably covered in dust. Although the apostle has always been with The Mistes favored these incurable pagans in their exchanges, but the stupid phantom believers did not show mercy at all. They invaded this city of seven hills and dragged everything around them into a state of destruction, Lord Will it shelter us?"
+ HMIN.0001.a:0 "Greatness belongs to Rome, and Rome belongs to you."
+ HMIN.0001.b:0 "Has even the Pope become so embarrassed?"
+ 
+ HMIN.0002.t:0 "Capture Uppland"
+ HMIN.0002.desc:0 "The heart of Scandinavia has been pierced by the guards of [kechengzhe.GetTitledFirstName]. Even as fierce as the Nordic people, they cannot prevent [kechengzhe.GetTitledFirstName]’s army from taking this area. The Uppland region is the center of Scandinavia, and now it has become more polytheistic. Most of the Christian missionaries have been forced to leave, while the local Germanic polytheistic rituals have surrounded the new conquerors and began Tell him the story of the twilight of the gods."
+ HMIN.0002.a:0 "Scandinavia is under the control of the king"
+ HMIN.0002.b:0 "The dusk of the gods? The dusk of the heretics!"
+ 
+  HMIN.0003.t:0 "Capture Venice"
+ HMIN.0003.desc:0 "The largest commercial republic in the Mediterranean, the hometown of the Republic of Venice, has now been occupied by [kechengzhe.GetTitledFirstName] and its phantom colleagues. Most of the nobles believe that the reason why Venice is here I couldn’t compete in the middle of the battle, and finally lost, or was it because the phantom believers were actually more wealthy than Venice, and what was the reason for this? The elder of the ten-member committee racked his brains and finally came to the conclusion— -Because Huan Meng believers will sell peripherals! So, the other Venice businesses in the city also began to sell the so-called Huan Meng peripherals. [kechengzhe.GetTitledFirstName] had to send someone to maintain the market and organize the marketing department to carry out special rectification."
+ HMIN.0003.a:0 "I want to sell the ropes they hanged themselves——"
+ HMIN.0003.b:0 "Facts have proved that mercantilism cannot save us."
+ 
+ HMIN.0004.t:0 "Capture Baghdad"
+ HMIN.0004.desc:0 "The most prosperous and great city in the Islamic world, the residence of the Caliph, the great Baghdad, has now fallen into the hands of the phantom believers. [kechengzhe.GetTitledFirstName] and the army passed the site of the Western Seal of Thailand Under the suspicious eyes of the citizens of Baghdad, he accepted the review of the conquerors. In order to commemorate this day, [kechengzhe.GetTitledFirstName] notified all the imams and mullahs in the city that they must give Allah’s followers a day off today. However, when the army passes. When we arrived at the Great Library, a group of prostitutes and slave soldiers raised by the former "mayor" of Baghdad suddenly rushed out to attack the parade team. After the brutal suppression, everyone discovered one thing-these people are all Drinking too much wine, oh no, sweet grape juice."
+ HMIN.0004.a:0 "Fanatical but not fanatical, but religious but not fanatical."
+ HMIN.0004.b:0 "The Caliph is really a corrupt thing!"
+ 
+ HMIN.0005.t:0 "Capture Isfahan"
+ HMIN.0005.desc:0 "The great imperial capital of the Persian Empire, Isfahan, has fallen under the control of the Huan Meng believers. [kechengzhe.GetTitledFirstName] declared complete religious peace after entering the city, and at the same time stopped going to the city The Manichae followers in Japan levied a blood tax. This policy benefited the local Persians, but it aroused the dissatisfaction of the Turkic people. Therefore, when [kechengzhe.GetTitledFirstName] inspected the Thirty-Three Bridges, they jumped out and launched an attack. However, they were all killed in the end. The shocked [kechengzhe.GetTitledFirstName] returned to his palace after throwing out the Silk Road tax exemption proposal."
+ HMIN.0005.a:0 "Isfahan, half of the world!"
+ HMIN.0005.b:0 "The beautiful ancient capital is dyed the color of idol worshipers."
+ 
+ HMIN.0006.t:0 "Capture London"
+ HMIN.0006.desc:0 "London, the most prosperous city on the island of England, is now controlled by [kechengzhe.GetTitledFirstName]. Although England has always been a remote island far from the European continent, it is obviously in fantasy The hands of the cute believers have been consolidated. A large number of piers have been established on the banks of the Thames. [kechengzhe.GetTitledFirstName] is enthusiastic about holding a larger-scale ship parade, and wants to crown himself supreme in this ceremony. King. On the British Isles in the dark world, there are phantom believers who assisted Arthur to ascend to the throne of the highest king. Now, history has once again undergone a cycle."
+ HMIN.0006.a:0 "King Arthur can't be a girl, oh no, believers in fantasy!"
+ HMIN.0006.b:0 "The beginning of the fall of a remote island."
+ 
+ HMIN.0007.t:0 "Capture Paris"
+ HMIN.0007.desc:0 "The most magnificent city in Île-de-France, and even Paris, which is called the only city by people, was broken by [kechengzhe.GetTitledFirstName]. Although the people of Paris had built standard barricades early, they were still hard to resist. Huan Meng’s invasion. With the support of the local lords overtly and secretly, Huan Meng’s army once again invaded the city of Paris and hanged some leaders of the resistance organization formed by some autonomous citizens."
+ HMIN.0007.a:0 "Paris is captured by us."
+ HMIN.0007.b:0 "The war continues"
+ 
+ HMIN.0008.t:0 "Capture Alexander"
+ HMIN.0008.desc:0 "The most prosperous city in Egypt, the great temple of knowledge, Alexandria, has been captured by Lord Huan Meng. [kechengzhe.GetTitledFirstName] mobilized a large number of soldiers to come to the library of Alexandria, as a desperate administrator When facing this army, [kechengzhe.GetTitledFirstName] offered to let this army copy the books in the library. However, the incident in the city square was intensified by a conflict—a Mamluk remnant attacked the books. And accidentally burned several hadiths."
+ HMIN.0008.a:0 "The end of the Silk Road is already in my hands."
+ HMIN.0008.b:0 "Heavy news."
+ 
+ HMIN.0009.t:0 "Capture Qunu City"
+ HMIN.0009.desc:0 "Quinv City, the main point that has been contended by several Indian subcontinent dynasties, has now fallen into the hands of Huan Meng. [kechengzhe.GetTitledFirstName]'s army assembled under the Wuyou King Tower and was executed for sabotage. The Brahmin monks in the city’s security and the liberation of untouchables are also continuing. The bodies of countless untouchables and their slave owners have been floating down the Ganges. Now, the entire Indian subcontinent is facing severe challenges from idolaters."
+ HMIN.0009.a:0 "We are different from them!"
+ HMIN.0009.b:0 "Arrow in the chest!"
+ 
+  HMIN.0010.t:0 "Capture Granada"
+ HMIN.0010.desc:0 "The bright pomegranate in Andalusia, the city of Granada, has been invaded by the phantoms. [kechengzhe.GetTitledFirstName] announced that it would protect the safety of the Moors in the city, but the Thai princes were hesitant Jue, there are still some castles and barriers in the city occupied by them. In the subsequent storming process, many Moors were killed by Liu Shi-the remaining Andalusian Moors finally gave up resistance, opened the city gate, and released [kechengzhe. GetTitledFirstName] the army entered the city-and in response to the master's betrayal, the few Berber mercenaries set fire to themselves, and the city was filled with a smell of decay."
+ HMIN.0010.a:0 "A significant victory."
+ HMIN.0010.b:0 "Idol worshipers are here!"
+ 
+ HMIN.0011.t:0 "Capture Lhasa"
+ HMIN.0011.desc:0 "Lhasa, the magnificent city on the snow-covered plateau, has been occupied by [kechengzhe.GetTitledFirstName] and its phantom army. Starting from the square in front of the Potala Palace, army after army Passed through various monasteries and monasteries in Lhasa without interruption. When they found that these monasteries were still holding slaves against their wishes, the officers would rush into the courtyard to rescue the serfs. Due to the strong opposition of the serf owners, the patrol quickly became a one-off. In the bloody conflict, the last one of the four waters and six guards was killed, and a large number of serfs were also slaughtered. A staff officer of [kechengzhe.GetTitledFirstName] witnessed all this and wrote a famous documentary, Xue Bai Blood red."
+ HMIN.0011.a:0 "We are on top of the world!"
+ HMIN.0011.b:0 "Fantasy believers are destroying the faith of mankind!"
+ 
+ HMIN.0012.t:0 "Capture Mecca"
+ HMIN.0012.desc:0 "The first holy city of Islam, the location of the Kerr Dayhouse, the glorious Mecca, has been contaminated by [kechengzhe.GetTitledFirstName] and its phantom army. The fierce fighting has continued since the morning. In the morning many days later, on the way the Huan Meng troops broke through the Dry Valley, the devout guards formed by countless herders resisted, and the blood flow filled the valley. In the end, [kechengzhe.GetTitledFirstName] arrived at the Kerr day room and accepted it. Mecca Sharif surrendered and appointed him to continue preparing for the Hajj-very embarrassingly, a group of Turkic slaves had already occupied the Kaaba, for fear of destroying the cultural relics, the Meng Meng army chose to besiege. [kechengzhe.GetTitledFirstName] sent two bags of big meat to the Turks in the Kaaba as a challenge. This success made the Turks hold on for two more weeks."
+ HMIN.0012.a:0 "We are still stronger now!"
+ HMIN.0012.b:0 "The righteous Muslims should consider how to retake their holy city."
+ 
+ HMIN.0013.t:0 "Capture Jerusalem"
+ HMIN.0013.desc:0 "The three holy cities of Christianity, Islam, and Judaism, the place where Jesus was martyred and the prophet ascended the sky, and the great Jerusalem has been captured by the phantom believers. [kechengzhe.GetTitledFirstName] reiterated the so-called port area The principle of religious peace requires that all religious people in the city obey the leadership of the government, otherwise they will be arrested by the gendarmerie. Under this other form of religious pressure, most of the imam bishop rabbis remained calm and accepted The only problem appeared in the Church of the Holy Sepulchre. In order to compete for the entrance fee of the Church of the Holy Sepulchre, a Maronite bishop and the Druze imam fought. After the scene was chaotic, many The clergy of other denominations also joined the fight, and the last shaman of the phantasmagoria temporarily acted as the toll collector of the Church of the Holy Sepulchre."
+ HMIN.0013.a:0 "The center of the land of three continents and five seas!"
+ HMIN.0013.b:0 "We should unite and expel them!"
+ 
+ HMIN.0014.t:0 "Capture Antioch"
+ HMIN.0014.desc:0 "With the expansion of the illusionist, the giant city of Antioch in the Far East was also captured by [kechengzhe.GetTitledFirstName] in order to break the city named after the greatest successor, Antioch the Great. , The two armies paid considerable casualties. The fierce offensive and defensive battle paralyzed the municipal facilities, and the remaining people poured into the monastery to pray for refuge."
+ HMIN.0014.a:0 "The Pearl of the Eastern Mediterranean!"
+ HMIN.0014.b:0 "They must be stopped—"
+ 
+ HMIN.0015.t:0 "Capture Rome"
+ HMIN.0015.desc:0 "Great Rome, where the crown of the Holy See is, with the grand hammer of the phantom and cute army led by [kechengzhe.GetTitledFirstName], it will inevitably be covered in dust. Although the apostle has always been with The Mistes favored these incurable pagans in their exchanges, but the stupid phantom believers did not show mercy at all. They invaded this city of seven hills and dragged everything around them into a state of destruction, Lord Will it shelter us?"
+ HMIN.0015.a:0 "Greatness belongs to Rome, and Rome belongs to you."
+ HMIN.0015.b:0 "Has even the Pope become so embarrassed?"
+ 
+ HMIN.0016.t:0 "Capture Damascus"
+ HMIN.0016.desc:0 "Damascus is half a paradise. Now half of the paradise has been stabbed to hell by the army of [kechengzhe.GetTitledFirstName]. The conditions in the city have been extremely deteriorated by the fierce battles, unwilling Muslim armed forces Still entrenched in the suburbs outside the city, waiting for the opportunity to harass those who do not believe in Allah. It is not yet clear how the battle will develop."
+ HMIN.0016.a:0 "We gradually gain an advantage"
+ HMIN.0016.b:0 "Fedyne will never die!"
+ 
+ 
+ HMIN.0017.t:0 "Capture of Athens"
+ HMIN.0017.desc:0 "The ocean of classical knowledge, the glorious Athens, has been captured by the army of [kechengzhe.GetTitledFirstName]. The army of Huan Meng believers bypassed important monuments, but some important documents still disappeared from the local area. Many Romans believed that a group of Italians followed the "Greeks" and stole important classical documents. They are likely to appear on the black market in Venice."
+ HMIN.0017.a:0 "It's going well—"
+ HMIN.0017.b:0 "We are frustrated again"
+
+  HMIN.0018.t:0 "Capture Cordoba"
+ HMIN.0018.desc:0 "The jewel of Spain, the world city Cordoba has been captured by the army of [kechengzhe.GetTitledFirstName]. The residents of the city maintain an extremely disgusting attitude towards the phantom invaders. Some Moors even The Castilians joined forces to oppose the rule of [kechengzhe.GetTitledFirstName], and the occupying authorities were forced to dispatch cavalry troops to attack the marching citizens. Many people were injured and killed in this incident."
+ HMIN.0018.a:0 "How can you use cavalry on the street?"
+ HMIN.0018.b:0 "Vicious heathen!"
+ 
+ HMIN.0019.t:0 "Capture Milan"
+ HMIN.0019.desc:0 "The pearl of Lombardia, the city of Milan, was finally crushed by the brutal [kechengzhe.GetTitledFirstName] and its army. As a member of the Lombard League, Milan has a strong city-state autonomy Habits, so [kechengzhe.GetTitledFirstName] expressed the desire to maintain Milan’s capital function and warned the municipal team not to act rashly."
+ HMIN.0019.a:0 "We tore the Lombard barrier."
+ HMIN.0019.b:0 "Milan was therefore depressed."
+ 
+ HMIN.0020.t:0 "Capture Palermo"
+ HMIN.0020.desc:0 "Sicily’s chief city, Palermo, has been captured by [kechengzhe.GetTitledFirstName] recently. The local army quickly ceased resistance, and the occupying army authorities were able to visit the city and determined to Add some statues of Ella and the King to the existing buildings in Palermo. When Palermo officially becomes their territory, this work should begin soon."
+ HMIN.0020.a:0 "The beautiful legend of Sicily."
+ HMIN.0020.b:0 "Will they keep going?"
+ 
+ HMIN.0021.t:0 "Capture Pula"
+ HMIN.0021.desc:0 "The Istrian area where Port of Pula is located is called the home port by some phantom enthusiasts, and there are indeed many phantom believers in this place. With the army of [kechengzhe.GetTitledFirstName] The fall of Laport, the legendary Piran home port is close at hand, and even more powerful insect swarms may take shape. Now, is there anyone who can stop them?"
+ HMIN.0021.a:0 "Forward Piran!"
+ HMIN.0021.b:0 "Where is Huahua? Where is the charming female president?"
+ 
+ HMIN.0022.t:0 "Capture Florence"
+ HMIN.0022.desc:0 "The legendary Fei Lengcui, the city of Florence, has been captured by [kechengzhe.GetTitledFirstName]’s army. Stupid idols seem to be dismissive of the banking business of the Holy See in this place, gendarmes. Follow the list to catch people, hoping to get a generous sum of money from the bankers."
+ HMIN.0022.a:0 "Enter Feilengcui."
+ HMIN.0022.b:0 "They must be driven away—"
+ 
+ HMIN.0023.t:0 "Capture Cairo"
+ HMIN.0023.desc:0 "One of the most prosperous cities on the banks of the Nile, Cairo City, has been captured by the army of [kechengzhe.GetTitledFirstName]. Officers of the occupying army authorities lined up to visit the historic Cairo Mosque and overlooked nearby The Pyramid of Giza and expressed his desire to play Cairo games, which made Cairo Mufti's brains very troubled."
+ HMIN.0023.a:0 "Battle of the Pyramids."
+ HMIN.0023.b:0 "What is the Cairo game?"
+ 
+ HMIN.0024.t:0 "Capture Tunisia"
+ HMIN.0024.desc:0 "The most prosperous city in North Africa, Tunisia, was finally captured by the army of [kechengzhe.GetTitledFirstName]. With the banner of the King erected on the ruins of Carthage, the Magical Adepts will once again influence Restored to the era of Heraclius, but this time there will be another sword of Allah to expel them?"
+ HMIN.0024.a:0 "Hahahahahaha (Wisconsin laughter)"
+ HMIN.0024.b:0 "The villain will be mad when he is successful."
+ 
+ HMIN.0025.t:0 "Capture Toledo"
+ HMIN.0025.desc:0 "A symbol of Spain's prosperity and prosperity, the city of Toledo was finally captured by the army of [kechengzhe.GetTitledFirstName]. It is still hard to say which idol worshiper or fanatical Berber is more destructive. , But the deep-rooted sectarian traditions here are obviously deeply impacted and difficult for themselves."
+ HMIN.0025.a:0 "The password of the ancient city of Toledo."
+ HMIN.0025.b:0 "The villain will be mad when he is successful."
+ 
+ HMIN.0026.t:0 "Capture Barcelona"
+ HMIN.0026.desc:0 "The surplus Barcelona city has been captured by the army of [kechengzhe.GetTitledFirstName]. With the city’s raging fire, people’s dreams about football and independence can only be pushed back. Now , Idol worshippers completely destroyed the city."
+ HMIN.0026.a:0 "Impersonal report!"
+ HMIN.0026.b:0 "Horrible demon!"
+ 
+ HMIN.0027.t:0 "Capture Canterbury"
+ HMIN.0027.desc:0 "Canterbury Cathedral, the pillar of Christianity in England, has been captured by the army of [kechengzhe.GetTitledFirstName]. It was once crowned the kings of England, but today the glory of the Lord cannot shine here anymore. , Huan Meng soldiers pretending that they don’t understand the language are slaughtering the local rebels wantonly, and Canterbury is bleeding."
+ HMIN.0027.a:0 "The winner is not blamed!"
+ HMIN.0027.b:0 "Destroy these butchers!"
+ 
+  HMIN.0028.t:0 "Capture Dunkirk"
+ HMIN.0028.desc:0 "Dunkirk, one of the important ports on the border between France and Friesland, has finally been captured by [kechengzhe.GetTitledFirstName]’s army. The remnants of the local army fled and tried to secretly organize ships. Smuggling to the Cornwall area, a generator project is underway in secret, wait a minute, what is the generator? Did you take the wrong script?"
+ HMIN.0028.a:0 "It is advisable for the remaining brave to chase the poor."
+ HMIN.0028.b:0 "I hope to learn from the overlord"
+ 
+ HMIN.0029.t:0 "Capture Aachen"
+ HMIN.0029.desc:0 "Even in Aachen, where Charlemagne’s great Carolingian former throne was, he has fallen into the shadow of phantasmagoria. His soul is undoubtedly weeping over the atrocities that are taking place inside the walls. .[Kechengzhe.GetTitledFirstName]’s army captured this great city, and without hesitation tilted all the anger, Yurich was burning."
+ HMIN.0029.a:0 "Big enmity will be avenged."
+ HMIN.0029.b:0 "We must be more cruel than the enemy."
+ 
+ HMIN.0030.t:0 "Capture Vienna"
+ HMIN.0030.desc:0 "Vienna, the shining pearl on the Danube, is now burning in front of the powerful army of [kechengzhe.GetTitledFirstName], and there are constantly corpses flowing down the Danube. The smell of corpses makes the entire Austrian border trembling. ."
+ HMIN.0030.a:0 "This is just a small price."
+ HMIN.0030.b:0 "Cruel butcher!"
+ 
+ HMIN.0031.t:0 "Capture Ragusa"
+ HMIN.0031.desc:0 "The important port of the Adriatic Sea, the city of Ragusa, has been captured by [kechengzhe.GetTitledFirstName]’s phantom army. This city has always been involved in transshipment in the Adriatic Sea. It played a huge role, and the fall has caused a major blow to the construction of local municipal roads and pipe networks."
+ HMIN.0031.a:0 "A big victory."
+ HMIN.0031.b:0 "Damn the butcher."
+ 
+ HMIN.0032.t:0 "Capture Genoa"
+ HMIN.0032.desc:0 "Although Genoa often fought Venice during the Mediterranean trade war, this time it was doomed to doom. [kechengzhe.GetTitledFirstName]’s army has entered the city of Genoa, and the fragile city seems to cry idolatry to the sky. The atrocities of the defenders."
+ HMIN.0032.a:0 "Fight to the hegemony of the Mediterranean!."
+ HMIN.0032.b:0 "The shameless heretics."
+ 
+ HMIN.0033.t:0 "Capture Pisa"
+ HMIN.0033.desc:0 "Another commercial republic in the Mediterranean region, Pisa, lost its home city in a conflict with [kechengzhe.GetTitledFirstName]. Under the watchful eyes of the Leaning Tower of Pisa, Huan Meng's army slowly passed The center of the city seems to herald the arrival of a nightmare era."
+ HMIN.0033.a:0 "What will happen next?"
+ HMIN.0033.b:0 "Pizza is losing ground."
+ HMIN.0035.t:0 "Capture Rome"
+ 
+ HMIN.0034.t:0 "Capture Amalfi"
+ HMIN.0034.desc:0 "During the invasion of the Ostrogoths, Amalfi seized the opportunity to become the seat of the Bishop’s Courtyard and became an important commercial power in one fell swoop, and now this power has been beaten by [kechengzhe.GetTitledFirstName] The smashing. As the waves hit Positano more fiercely, the beautiful scenery of Sicily cannot save the declining soul."
+ HMIN.0034.a:0 "Continue to march."
+ HMIN.0034.b:0 "Then the hug fails?"
+ 
+  HMIN.0035.t:0 "Capture Perth"
+ HMIN.0035.desc:0 "Pest, one of the important cities along the Danube River, fell into the hands of [kechengzhe.GetTitledFirstName], and the army of phantom believers burned the ferry crossing on the Danube River and executed some of the Chinese Volunteers in the city. The officer, this is a prelude to the city’s fall into the terror rule of the occupying authorities."
+ HMIN.0035.a:0 "The bloody Pace offensive and defensive battle has now begun."
+ HMIN.0035.b:0 "Destroy these heretic bandits!"
+ 
+ HMIN.0036.t:0 "Capture Constantinople"
+ HMIN.0036.desc:0 "Theodosius Wall, the most solid wall known in the world, has also been broken by [kechengzhe.GetTitledFirstName]’s phantom and cute army, and fanatical pagan soldiers came from the gap in Theodosius Wall. They swarmed in and started street fighting with the defenders. Obviously, it is a matter of time before the fall of the City of Longing for the World."
+ HMIN.0036.a:0 "Hold the city of Constantine!"
+ HMIN.0036.b:0 "Destroy these heretic bandits!"
+ 
+ HMIN.0037.t:0 "Capture of Kiev"
+ HMIN.0037.desc:0 "The catastrophe of phantasmagoria flooded into the Golden Gate of Kiev and washed this once thriving trading center. The city is only left with smoking ruins, and the water of the Dnieper is now stained red by the blood of its former inhabitants. [Kechengzhe.GetTitledFirstName] is thirsty for blood like a cruel demon. This news has been heard from all over the Holy See as the phantom army captured Kiev."
+ HMIN.0037.a:0 "You are responsible for talking nonsense like this."
+ HMIN.0037.b:0 "Reports from external networks."
+ 
+ HMIN.0038.t:0 "Capture Moscow"
+ HMIN.0038.desc:0 "The emerging city of Moscow in the Vladimir region has fallen into the hands of the [kechengzhe.GetTitledFirstName] army. This city is not very well-known, and no one knows how the situation will develop next— —"
+ HMIN.0038.a:0 "Because it has a future?"
+ HMIN.0038.b:0 "Soldiers' blood cannot flow in vain."
+ 
+ HMIN.0039.t:0 "Capture Mosul"
+ HMIN.0039.desc:0 "The bustling city of Mosul, the center of the ancient Assyrian dynasty, has now been captured by the [kechengzhe.GetTitledFirstName] army. The blade of Allah failed to save his followers, and the Muslim army is fleeing-in time , They may need to spend four times as long to regain this place."
+ HMIN.0039.a:0 "The outcome is unpredictable."
+ HMIN.0039.b:0 "A ugly drama."
+ 
+ HMIN.0040.t:0 "Capture Konya"
+ HMIN.0040.desc:0 "The center of the Thoros line of defense, the important town Konya, was captured by the [kechengzhe.GetTitledFirstName] army. Both the Roman Empire and the Roma Sultan boasted about the defense capabilities of this city. However, It’s still not worth seeing in front of the terrifying producer enthusiasts, and many of the remaining Konya Turks are retreating inland."
+ HMIN.0040.a:0 "Now the Torros line of defense is open."
+ HMIN.0040.b:0 "A ugly drama."
+ 
+ HMIN.0041.t:0 "Capture of Marrakech"
+ HMIN.0041.desc:0 "The pearl of the south, Marrakech, the center of the Kingdom of Mauritania, has been captured by the army led by [kechengzhe.GetTitledFirstName], and the occupying army has set up a temporary Camp, trying to lure the local Berbers into their ranks—because the Great Mufti of Jerusalem told these phantom believers that pure Berbers just need to be fanatical."
+ HMIN.0041.a:0 "The tunnel in Canary Island is about to be opened."
+ HMIN.0041.b:0 "What has to be done."
+ 
+ HMIN.0042.t:0 "Capture Strasbourg"
+ HMIN.0042.desc:0 "At the border of France and Germany, the city of white school Rathstra Fort was recently captured by an army led by [kechengzhe.GetTitledFirstName]. This time there is no more miracle of the revival of the Roman Empire. The garrison of Strasbourg had broken down, and the Archbishop of Strasbourg had a friendly meeting with the occupying authorities. [kechengzhe.GetTitledFirstName] decided to station the army outside the city after watching a concert."
+ HMIN.0042.a:0 "White, Bai Xuebao?"
+ HMIN.0042.b:0 "Another city has fallen."
+ 
+ HMIN.0043.t:0 "Capture Lisbon"
+ HMIN.0043.desc:0 "The prosperous city of Lisbon on the Atlantic coast fell to its knees at the feet of the phantom and cute army led by [kechengzhe.GetTitledFirstName]. After fierce battles, the mouth of the Tejo River has been dyed red with blood. Citizens rushed to flee their homes, lest the city might be swallowed by a plague that might occur later."
+ HMIN.0043.a:0 "Hope to reduce damage."
+ HMIN.0043.b:0 "Another city has fallen."
+ 
+ HMIN.0044.t:0 "Capture Leon"
+ HMIN.0044.desc:0 "The capital of the Kingdom of Leon, a solid shield against Muslims. The city of Leon has been crushed by an army led by [kechengzhe.GetTitledFirstName]. It is believed that the local city guard once fled to find it. A reinforcement army conquered again, but had an argument with another army conquered on the road. The two sides then started a armed battle, and none of them reached the city of Leon."
+ HMIN.0044.a:0 "Good victory."
+ HMIN.0044.b:0 "Another city has fallen."
+ 
+ HMIN.0045.t:0 "Capture Dublin"
+ HMIN.0045.desc:0 "Dublin, the most prosperous city in Ireland, was captured by the phantom army led by [kechengzhe.GetTitledFirstName]. At the ferry crossing on the Liffey, many local defenders were forced to lay down their weapons to make a living , The barren Ireland is totally unable to withstand the attacks of idolaters, and now no one knows how to be saved."
+ HMIN.0045.a:0 "Dublin is already in hand."
+ HMIN.0045.b:0 "Another city has fallen."
+ 
+ HMIN.0046.t:0 "Capture Glamorgan"
+ HMIN.0046.desc:0 "Glamorgan, the gateway to the Welsh region, has been captured by the Huan Meng army led by [kechengzhe.GetTitledFirstName]. The occupying army authorities have posted public announcements everywhere seeking the support of public opinion representatives, but they still don’t know what they want. Who is the hapless Earl of Glamorgan, no matter what, after this victory, the Huan Meng army no longer needs to face the defense forces of the Welsh area."
+ HMIN.0046.a:0 "Then you will be named Earl of Glamorgan."
+ HMIN.0046.b:0 "People, where is the representative of public opinion?"
+ 
+ HMIN.0047.t:0 "Capture Glasgow"
+ HMIN.0047.desc:0 "The largest city on the Clyde River, the beautiful Glasgow, has become the victim of a new round of offensive by [kechengzhe.GetTitledFirstName]. With the fall of the city, Scotland has not been sufficiently developed. China’s economy has been hit hard again, and now people really can only hope that the imaginative occupation army authorities can bring their economic experience into this city?"
+ HMIN.0047.a:0 "Towards victory."
+ HMIN.0047.b:0 "They must be stopped!"
+ 
+ HMIN.0048.t:0 "Capture Nantes"
+ HMIN.0048.desc:0 "The city of Nantes in the center of Brittany has been bloodbathed by the phantom and cute army led by [kechengzhe.GetTitledFirstName]. As the battle gradually approaches the city, many local soldiers have given up resistance. , Just like the reason the Celtics came here."
+ HMIN.0048.a:0 "Brittany has taken my hands."
+ HMIN.0048.b:0 "The war is continuing."
+ 
+ HMIN.0049.t:0 "Capture Bruges"
+ HMIN.0049.desc:0 "The most prosperous city in Flanders, that distant bridge, was finally brought to an end by [kechengzhe.GetTitledFirstName] led by the phantom and cute army. Now the city has completely fallen into the control of the occupying forces. Some stubborn defensive garrisons committed suicide from the bridge. The air was very dignified at one time. It is still unknown how long this situation will last."
+ HMIN.0049.a:0 "Prosperous."
+ HMIN.0049.b:0 "Lost here."
+ 
+ HMIN.0050.t:0 "Capture Lübeck"
+ HMIN.0050.desc:0 "One of the most prosperous trading cities on the Baltic Sea coast, the free city of Lübeck in the Empire, collapsed under the weight of the phantom army led by [kechengzhe.GetTitledFirstName]. The occupying army authorities are ruining their lives. The Saskatchewan’s crime of buying and reselling and asking them to start reselling new items-allegedly the latest set of port settings."
+ HMIN.0050.a:0 "I think it can."
+ HMIN.0050.b:0 "If you get infected with these pagan stuff, you won't be saved."
+ 
+ HMIN.0051.t:0 "Capture Mainz"
+ HMIN.0051.desc:0 "The largest local cultural printing and distribution center, Mainz, was captured by the phantom army led by [kechengzhe.GetTitledFirstName]. This place undertook the printing of a large number of Holy See documents, and the occupying army authorities also I printed a batch of dress-up copies in a hurry. It is said that the Archbishop of Mainz secretly kept a few copies for himself, and they were discovered by the Bishop of Ravenna, so they were able to exchange their respective collections."
+ HMIN.0051.a:0 "Mainz has been recovered"
+ HMIN.0051.b:0 "Things are going badly."
+  HMIN.0052.t:0 "Capture Prague"
+ HMIN.0052.desc:0 "The most magnificent city in the Kingdom of Bohemia, the beautiful Prague, has been captured by an army of phantom cuteness led by [kechengzhe.GetTitledFirstName], and phantom cuteness is constantly pouring out on both sides of the Vltava River. The warship forced the people to curl up in their own homes. Attracted by the affirmative ideology of the Huan Meng believers, the female Scarlet Crusaders who had fallen for a long time began to become active again."
+ HMIN.0052.a:0 "Our business is receiving various supports."
+ HMIN.0052.b:0 "Hang them!"
+ 
+ HMIN.0053.t:0 "Capture Frankfurt"
+ HMIN.0053.desc:0 "Frankfurt, the seat of the Patriarch of Frankfurt, has been taken by the phantom army led by [kechengzhe.GetTitledFirstName]. Now the Pontifical’s reinforcements don’t know where they are, and Frankfurt can obviously only commit to it. In the hands of pagans."
+ HMIN.0053.a:0 "We got another round."
+ HMIN.0053.b:0 "It's time to do something."
+ 
+ HMIN.0054.t:0 "Capture Trier"
+ HMIN.0054.desc:0 "The capital of the Archdiocese of Trier, Trier, has been captured by the phantom army led by [kechengzhe.GetTitledFirstName]. Due to the phantom army’s strong anti-Catholic sentiment against the Holy Order, The Archbishop of Trier looked very embarrassed, lest he would lose his position as a secular lord, be beaten to the end, and completely lose his kingdom."
+ HMIN.0054.a:0 "We got another round."
+ HMIN.0054.b:0 "Ten thousand square meters?"
+ 
+ HMIN.0055.t:0 "Capture Poznan"
+ HMIN.0055.desc:0 "Poznan, which has always been the center of the Greater Poland region, was finally captured by the phantom army led by [kechengzhe.GetTitledFirstName]. The Warta River could not stop the fanatical phantom army from advancing into the center of the city. After a fierce embarrassing battle, there was a mess everywhere in the city, and the Polish nobles fled everywhere. They were obviously not welcomed by idolaters."
+ HMIN.0055.a:0 "Did you win?"
+ HMIN.0055.b:0 "It failed."
+ 
+ HMIN.0056.t:0 "Capture of Trabizon"
+ HMIN.0056.desc:0 "An important stronghold in the ditch of Pontus, Trabzonspor, which has been working hard to protect for a long time, was captured by the magical army led by [kechengzhe.GetTitledFirstName]. Trabzonspor has always been the capital of Trabzonspor. It is the center of business and trade in the Pontus region. The Huan Meng believers who invaded the city were amazed by the wealth here, and found a considerable amount of Silk Road wealth and a collection of paintings of another kind of ship maiden."
+ HMIN.0056.a:0 "A new threat is emerging in the east."
+ HMIN.0056.b:0 "Azure Lane."
+ 
+ HMIN.0057.t:0 "Capture Adana"
+ HMIN.0057.desc:0 "The important stronghold of the Kiriqia Gate, Adana City, has been captured by the phantom army led by [kechengzhe.GetTitledFirstName]. As an important stronghold of the Kiriqia Gate, Adana has always Both play an important role in communicating Antioch and Ephesus. This fall is an important blow to the coast of Asia."
+ HMIN.0057.a:0 "The land of Gavin Lucail."
+ HMIN.0057.b:0 "Another heavy blow."
+ 
+ MIN.0058.t:0 "Capture Tbilisi"
+ HMIN.0058.desc:0 "An important city in Georgia, Tbilisi, has been captured by the phantom army led by [kechengzhe.GetTitledFirstName]. The city that has gone through the fierce battle is full of ruined walls, and people are crying. Obviously anti-illusion. The magical reinforcements that the cute forces once preached did not appear, and the ridicule of zero when swiping the card was constantly playing around Tbilisi."
+ HMIN.0058.a:0 "We have advanced to Tbilisi."
+ HMIN.0058.b:0 "Another heavy blow."
+ 
+ HMIN.0059.t:0 "Capture Axum"
+ HMIN.0059.desc:0 "The most prosperous city in Abenesia, Axum, has been captured by the phantom army led by [kechengzhe.GetTitledFirstName]. This city has also been caught in various calamities, but this is The latest time, due to the infiltration of the Huahua Axe and Axe Corps, the Huahuan Army Corps had to clear every monastery. The fierce resistance caused many Coptic monks to be killed, and Huahuan’s reputation among civilians plummeted."
+ HMIN.0059.a:0 "This is just an accident—"
+ HMIN.0059.b:0 "The villain is full of lewdness."
+ 
+  HMIN.0060.t:0 "Capture Aden"
+ HMIN.0060.desc:0 "The prosperous port of the Gulf of Aden, the city of Aden, was finally captured by the Huan Meng army led by [kechengzhe.GetTitledFirstName]. This city is Hua Meng’s favorite coastal port city, and the occupying army authorities have planned A lot of facilities have been improved, and even a port has been planned for the NF in Bergen, Norway. Now they can embark from here to the coast of the Indian Ocean."
+ HMIN.0060.a:0 "Good stronghold"
+ HMIN.0060.b:0 "Another city has fallen."
+ 
+ HMIN.0061.t:0 "Capture Basra"
+ HMIN.0061.desc:0 "Basra Port has always been the trade center of the southern Mesopotamia. When the phantom army led by [kechengzhe.GetTitledFirstName] entered this place, they were also stunned by the prosperity of the city. This time. The offensive and defensive war did not cause much damage to the city, but the imams who were unwilling to submit still burned some mosques."
+ HMIN.0061.a:0 "Majestic Basra"
+ HMIN.0061.b:0 "Another city has fallen."
+ 
+ HMIN.0062.t:0 "Capture Samarkand"
+ HMIN.0062.desc:0 "The center of the Silk Road, the great city of Samarkand, has been captured by the phantom and cute army led by [kechengzhe.GetTitledFirstName]. Although there is no outstanding atrocities of the Ugus, it is terrible. The Meng believers still burned down some towns and arrested and executed the Ugus Turkic people who had oppressed the Mistes, and caused fierce resistance from the latter. Now the city is in chaos, and some people even set fire in the Datang Palace."
+ HMIN.0062.a:0 "Wai Zai Timur"
+ HMIN.0062.b:0 "Another city has fallen."
+ 
+ HMIN.0063.t:0 "Capture Delhi"
+ HMIN.0063.desc:0 "The central city of the Delhi Plain has been captured by the Huan Meng army led by [kechengzhe.GetTitledFirstName]. The Ugusi guards and the Huan Meng army fought in Delhi city. Some Brahmins who were too late to evacuate The army was also looted by the retreating army. The civilians suffered more serious damage. Many corpses fell from the Ganges, and even blocked the wide river for a period of time. It was not until later that the last victor was under the iron pillars of Delhi. produce."
+ HMIN.0063.a:0 "Our Wuxun!"
+ HMIN.0063.b:0 "Another city has fallen."
+ 
+ HMIN.0064.t:0 "Capture Lahore"
+ HMIN.0064.desc:0 "The gateway to the Lahore Mountain Gate, the city of Lahore, has been captured by the phantom and cute army led by [kechengzhe.GetTitledFirstName]. It is said that a powerful army of steel and black blood was sealed here, Some unwilling Brahmins gathered in the mountains in order to break the seal, but they were eventually destroyed by the military police in the port area."
+ HMIN.0064.a:0 "Of course we must continue to head east."
+ HMIN.0064.b:0 "Another city has fallen."
+ 
+ HMIN.0065.t:0 "Capture Kathmandu"
+ HMIN.0065.desc:0 "The magnificent city of Kathmandu Valley, Kathmandu, has been captured by an army led by [kechengzhe.GetTitledFirstName]. It is said that the army of idol worshippers paid a heavy price to get to Nepal, but they eventually There is still something in return. Now the ridiculous Lily of the Valley flag has been planted in the streets of Kathmandu, and people must accept the rule of the occupying army."
+ HMIN.0065.a:0 "We are stronger now."
+ HMIN.0065.b:0 "Another city has fallen."
+ 
+ HMIN.0066.t:0 "Capture Jiuquan"
+ HMIN.0066.desc:0 "The starting point of the Silk Road in Hexi, Jiuquan City, has been captured by the Huan Meng army led by [kechengzhe.GetTitledFirstName]. With the inevitable decline of the Central Dynasty, Hexi has been since Tubo Having suffered a catastrophe, is it possible for the Chinese Empire to find a way to fight against these terrible ship women? Or rather, even more terrifying ship women."
+ HMIN.0066.a:0 "Go to Quantai Recruitment Department"
+ HMIN.0066.b:0 "Another city has fallen."
+ 
+  HMIN.0067.t:0 "Capture the wheel station"
+ HMIN.0067.desc:0 "The garrison city in the Far East, Luntai, has been captured by the phantom army led by [kechengzhe.GetTitledFirstName]. This is the place where the Chinese empire in the east is stationed and is now about to become an occupying army. A place for the authorities to garrison troops."
+ HMIN.0067.a:0 "Luntai East Gate sends the emperor, Shang Si is the national defense of Luntai."
+ HMIN.0067.b:0 "Another city has fallen."
+ 
+ HMIN.0068.t:0 "Capture Xingqing Mansion"
+ HMIN.0068.desc:0 "The behemoth-like Xingqing Mansion was shattered and shattered under the attack of the phantom and cute army. With the horn of victory, the phantom and cute army led by [kechengzhe.GetTitledFirstName] has passed the gradual collapse without any hindrance. The city defense has planted its own banner of victory in the center of the city. This is the iconic victory moment for Huan Meng on the border of the Chinese Empire."
+ HMIN.0068.a:0 "Stop Jiangnan!"
+ HMIN.0068.b:0 "Another city has fallen."
+ 
+ HMIN.0069.t:0 "Capture Minsk"
+ HMIN.0069.desc:0 "Minsk, an important gateway to the west of Ross, has been captured by the Huan Meng army led by [kechengzhe.GetTitledFirstName]. The frustrated occupation army authorities searched for a man named sarb. It is said that this person did it. Many table games are well received by the Mistes. Now, many files have been put on Minsk Square by the occupying army authorities, and now it’s only a matter of tearing down the WG building."
+ HMIN.0069.a:0 "This is life, comrade, this is life"
+ HMIN.0069.b:0 "The Minsk strikes."
+ 
+ HMIN.0070.t:0 "Capture of Novgorod"
+ HMIN.0070.desc:0 "As a major trading town in the western region, Novgorod has been captured by the Huan Meng army led by [kechengzhe.GetTitledFirstName]. Most of the fur merchants in the city have been driven by military patterns, and some are heading towards Siberia. Fleeing, the occupying forces seem to be restoring order, but they are only preparing."
+ HMIN.0070.a:0 "Be careful of the ice surface of Lake Chud."
+ HMIN.0070.b:0 "Another city has fallen."
+ 
+ e_tianchao_yuzheng:0 "Tianchao Fishery Policy";;;;;;;;;;;X,
+ e_tianchao_yuzheng_adj:0 "Tianchao Fishery Policy";;;;;;;;;;;X,
+ e_france_navy:0 "Free French Navy";;;;;;;;;;X,
+ e_france_navy_adj:0 "Free French Navy";;;;;;;;;;;X,
+ e_hre_navy:0 "High Seas Fleet";;;;;;;;;;X,
+ e_hre_navy_adj:0 "High Seas Fleet";;;;;;;;;;;X,
+ e_spain_navy:0 "Royal Spanish Navy";;;;;;;;;;X,
+ e_spain_navy_adj:0 "Royal Spanish Navy";;;;;;;;;;;X,
+ e_italy_navy:0 "Italian navy union";;;;;;;;;;X,
+ e_italy_navy_adj:0 "Italian navy union";;;;;;;;;;;X,
+ e_russia_navy:0 "Soviet Red Navy";;;;;;;;;;;X,
+ e_russia_navy_adj:0 "Soviet Red Navy";;;;;;;;;;;X,
+ e_byzantium_navy:0 "Eastern Roman Empire";;;;;;;;;;;X,
+ e_byzantium_navy_adj:0 "Eastern Roman Empire";;;;;;;;;;;X,
+ e_persia_navy:0 "Darius Return to Fleet";;;;;;;;;;;X,
+ e_persia_navy_adj:0 "Darius Return to the Fleet";;;;;;;;;;;X,
+ e_wendish_empire_navy:0 "Polish-Lithuanian Integrated Fleet";;;;;;;;;;X,
+ e_wendish_empire_navy_adj:0 "Polish-Lithuanian Integrated Fleet";;;;;;;;;;;X,
+ e_arabia_navy:0 "Hetitcher United Fleet";;;;;;;;;;;X,
+ e_arabia_navy_adj:0 "Hettich Combined Fleet";;;;;;;;;;;X,
+ e_carpathia_navy:0 "War and Royal Navy";;;;;;;;;;;X,
+ e_carpathia_navy_adj:0 "Austro-Hungarian Navy";;;;;;;;;;;X,
+ e_maghreb_navy:0 "National French Navy";;;;;;;;;;X,
+ e_maghreb_navy_adj:0 "National French Navy";;;;;;;;;;;X,
+ e_scandinavia_navy:0 "Bergen Thirteenth Fleet";;;;;;;;;;;X,
+ e_scandinavia_navy_adj:0 "Bergen Thirteenth Fleet";;;;;;;;;;X,
+ e_deccan_navy:0 "Maratha Federation";;;;;;;;;;X,
+ e_deccan_navy_adj:0 "Maratha Federation";;;;;;;;;;;X,
+ e_bengal_navy:0 "Pacific Anti-Submarine Joint Fleet";;;;;;;;;;;X,
+ e_bengal_navy_adj:0 "Pacific Anti-Submarine Joint Fleet";;;;;;;;;;;X,
+ e_rajastan_navy:0 "Dominion of Delhi";;;;;;;;;;X,
+ e_rajastan_navy_adj:0 "Dominion of Delhi";;;;;;;;;;;X,
+ e_turan_navy:0 "Tashkent Empire";;;;;;;;;;X,
+ e_turan_navy_adj:0 "Tashkent Empire";;;;;;;;;;;X,
+ 
+  HMIN.0071.t:0 "Reunification of Tubo"
+ HMIN.0071.desc:0 "When the Tubo Empire finally collapsed due to strong enemies in the east, countless monks and warlords fought on the plateau. Now this involute war has ushered in an unexpected result, and the magical believers have replaced them. The monks and lay leaders of Buddhism or Bon religion once again unified the Qinghai-Tibet Plateau. The former Tubo empire has now been usurped by the [kechengzhe.GetTitledFirstName] believer. Unlike Bon religion, it does not speak of sacrifice or sacrifice. Talking about dedication is undoubtedly a kind of cult, so it has been unanimously opposed by the monks. However, the focus of [kechengzhe.GetTitledFirstName] is not on these people. The new monarch claims to be the successor of the great fishing regime of the heavenly dynasty. Continue to develop your empire in the boundless mountains and seas."
+ HMIN.0071.a:0 "There is no Tubo, only Tibet."
+ HMIN.0071.b:0 "We should fund those monks to oppose this evil regime!"
+ 
+ HMIN.0072.t:0 "Frank's Conqueror"
+ HMIN.0072.desc:0 "The Frank Empire, forged by Charlie the Hammer and forged by the dwarf Piping, has now fallen into the hands of [kechengzhe.GetTitledFirstName], as early as the Roman Empire, in the Gaul region. A large number of phantom believers and secret associations were active. The last Gallic governor of the Roman Empire, Sigrius, was a phantom believer. When the power of the phantom believers was destroyed by Cloveliangen, the whole After hundreds of years of silence, the Moe’s believers finally regained this land. When the Moe’s believers have become the undisputed masters of Ostracia and control Corsica, will they be established in accordance with the traditions of the imperial era? What about a powerful navy capable of dominating the Mediterranean? Everyone is watching [kechengzhe.GetTitledFirstName]."
+ HMIN.0072.a:0 "Long live France!"
+ HMIN.0072.b:0 "Western Europe will fall apart."
+ 
+ HMIN.0073.t:0 "The Empire of God, the Emperor of Fantasy"
+ HMIN.0073.desc:0 "The country crowned by the Pope, the powerful Holy Roman Empire, is already under the occupation of [kechengzhe.GetTitledFirstName] and its unfaithful phantom staff. Old institutions Already overthrown, all the electors were forcibly placed in their homes, and the streets of Aachen were crowded with people demanding that the emperor step down. The Pope naturally refused to crown the betrayers, but the latter also claimed that the power of the port never came from Theocracy. The continued confrontation between the two sides made the entire Northern Italy turbulent, for fear that the emperor’s army rushed down from the Alps. Only the Swiss smelled the business opportunity. Now, more people come to the Vatican and join the Pope’s guard—— Of course, [kechengzhe.GetTitledFirstName] doesn’t care at all."
+ HMIN.0073.a:0 "Blood sacrifices to the blood god, the skull penetrates the skull seat!"
+ HMIN.0073.b:0 "Down with the false emperor!"
+ 
+ HMIN.0074.t:0 "The Emperor of Spain"
+ HMIN.0074.desc:0 "Since the conquest of the Visigoths, Spain, which has been trapped in bloody battles, has finally ushered in [kechengzhe.GetTitledFirstName], a ruler who believes in fantasy. As a response to this situation In response, both the lords of the Western Catholic world and the Moorish Emir of the Thai-French region have aggressively attacked how the idol worshiper is not worthy, and finally they concluded that "Spain is not the emperor", to annihilate it. Its legal status. However, [kechengzhe.GetTitledFirstName] did not take it seriously, it seems that the establishment of a great Spanish navy is more in line with its office agenda."
+ HMIN.0074.a:0 "The emperor does the emperor have anything to do with them?"
+ HMIN.0074.b:0 "Spain is not the emperor"
+ 
+ HMIN.0075.t:0 "Reunification of Italy"
+ HMIN.0075.desc:0 "Italy, which has been divided by the two powers since the collapse of the Roman Empire, is now finally unified by [kechengzhe.GetTitledFirstName] and its phantom believers. This also means that the many disputes surrounding Italy have finally The dust is about to settle. Although it will almost certainly be counterattacked, [kechengzhe.GetTitledFirstName] and its legion are so proud, as if they have regained the glory of the Latin era, and even invaded St. Peter’s seat. Now, [kechengzhe.GetTitledFirstName] ] Have you made a plan to establish the legendary Italian naval alliance?"
+ HMIN.0075.a:0 "I stand in Piazza Fontana, the pope will lose his last conscience"
+ HMIN.0075.b:0 "The Fall of Apennines"
+ 
+ HMIN.0076.t:0 "Russian Unity"
+ HMIN.0076.desc:0 "Russia, which has long been regarded as a wild land, has now ended its involution history, ushered in a new ruler and a powerful empire, [kechengzhe.GetTitledFirstName] as a fantasy The Meng believers were officially crowned and became the masters of the North. It is said that an idea called communism is flowing in Russia, and [kechengzhe.GetTitledFirstName] seems to be interested in it. The establishment of the Red Navy of the Soviet Socialist Republic has been mentioned. Some sort of schedule."
+ HMIN.0076.a:0 "Believe in the beauty of life and maintain an optimistic attitude, because the revolution is always invincible."
+ HMIN.0076.b:0 "Another city has fallen."
+ 
+  HMIN.0077.t:0 "Eastern Roman Empire Huan Meng Dynasty"
+ HMIN.0077.desc:0 "The great Roman Empire is now also under the control of the evil Titled Cultists. [kechengzhe.GetTitledFirstName] became the emperor of the Eastern Roman Empire as a Titled Cultist for the first time in history. Neither the universal patriarch of Constantinople nor the Holy See in Rome could accept Byzantium, this solid fortress for the Christian world to resist the pagans was so penetrated. The power of the rebels was quickly transported to the aliens. After an unsuccessful assassination in a military parade, [kechengzhe.GetTitledFirstName] declared martial law throughout the city, sent troops to search for the rebels, and publicly announced its aggressive ambition to restore the territory of the old empire."
+ HMIN.0077.a:0 "For the Senate and half of the Roman people!"
+ HMIN.0077.b:0 "Reversing to the Julian era."
+ 
+ HMIN.0078.t:0 "Conqueror of Persia"
+ HMIN.0078.desc:0 "Since the great Muslim conquest, the Zoroastrian Persian empire has disappeared. Now, [kechengzhe.GetTitledFirstName] and its fantasy belief have re-established the rule of Persia as a religion As a proof of the tolerance of the belief policy, a large number of Muslims and Zoroastrians have been conscripted to the Hong Kong District Council to act as rubber stamps and play a certain role as mascots. [kechengzhe.GetTitledFirstName] has always claimed Cyrus the Great, Now he can finally re-establish the position of Zoroastrian high priest, and, very meaningfully, try to become a true savior."
+ HMIN.0078.a:0 "Cyrus is coming again!"
+ HMIN.0078.b:0 "What a pagan air!"
+ 
+ HMIN.0079.t:0 "The New Power of Wende"
+ HMIN.0079.desc:0 "The area of ​​South Baltic that was once regarded as the most chaotic area in the Baltic Sea has now become unified under the sudden rise of phantasmal forces, and even established a new imperial government for hundreds of years. For the first time, [kechengzhe.GetTitledFirstName] created a country that truly unified the two regions of Poland and Lithuania. With the completion of the new fleet, the world worriedly imagined the future of this new country-these two divided regions. Can the region really become the foundation of a powerful country?"
+ HMIN.0079.a:0 "Mr. and Mrs. Polly greet you."
+ HMIN.0079.b:0 "There are no waves."
+ 
+ HMIN.0080.t:0 "Hetitcher Union"
+ HMIN.0080.desc:0 "Following cruel battles with the surrounding heretics, the phantom believers in the Middle East are finally unified under one banner! [kechengzhe.GetTitledFirstName] has decided to integrate the complex central region into Under the banner of a government, in the name of the Holy Wife Hetticher, new military and government agencies were formed, with the intention of bringing the Islamic world back to the equal and prosperous system of equal communes! Powerful infidels are challenging The authority of the caliphs, does this mean the beginning of a new round of integration in the Islamic world, or is it just another corrupt rebellion?"
+ HMIN.0080.a:0 "When you stare at Blackstone, Blackstone is staring at you too."
+ HMIN.0080.b:0 "Establish the Aisha Guard."
+ 
+ HMIN.0081.t:0 "Establish War and Royal Navy"
+ HMIN.0081.desc:0 "Following cruel battles with the surrounding heretics, the phantom believers in Central Europe are finally unified under one banner! [kechengzhe.GetTitledFirstName] has decided to integrate the complex central region into Under the banner of a government, the imperial army controlled many important strongholds in the Adriatic Sea. They were derided as knights who had never seen the sea. They would serve as a navy under the leadership of an admiral without a Catholic king. The empire has worked!"
+ HMIN.0081.a:0 "Please remember to wake me up from Schönbrunn Palace at four o'clock, this is all for peace!"
+ HMIN.0081.b:0 "Sick man in Eastern Europe."
+ 
+ HMIN.0082.t:0 "The National Navy is marching"
+ HMIN.0082.desc:0 "The former Maghreb region was only a weak vassal in the Arab empire. After the decisive collapse of the empire's rule, she became a buffer state that separated Spain and the Arab core regions that were isolated overseas. However, the Berber nomads finally became a powerful force not to be underestimated. It was [kechengzhe.GetTitledFirstName], the powerful phantom lord, who led them to unity. When the port of Morocco is enough to form a huge fleet, then there is What can prevent them from regrouping their huge fleet and returning to the dreamy Port of New Piran to avenge the Battle of Tours?"
+ HMIN.0082.a:0 "We are back!"
+ HMIN.0082.b:0 "Those barbarians will not be arrogant for long."
+  HMIN.0083.t:0 "Guardian of Bergen"
+ HMIN.0083.desc:0 "As the cornerstone of NEOFORCE in this world, Northern Europe has made the world tremble with its strong naval tradition and barbaric atrocities. In the terrible Viking atmosphere, it seems that you can't feel the magical world outside Bergen. However, [kechengzhe.GetTitledFirstName] has broken out of the encirclement of the Asa Protoss and Christians, reunited the Greater Scandinavia, and declared with high profile that it is the eternal guardian of Bergen By"
+ HMIN.0083.a:0 "[kechengzhe.GetTitledFirstName] strikes out!"
+ HMIN.0083.b:0 "Done"
+ 
+ k_burgundy_navy:0 "Clover Burgundy Country";;;;;;;;;;;X,
+ k_burgundy_navy_adj:0 "Four Leaf Clover Burgundy Country";;;;;;;;;;X,
+ 
+ HMIN.0084.t:0 "The establishment of the four-leaf clover Burgundy country"
+ HMIN.0084.desc:0 "In order to better participate in the budding test, some phantasmagoria believers began to participate in the great project of the monster girl very early, and now these followers are led by [kechengzhe.GetTitledFirstName] to settle in the beautiful ancient times. The Kingdom of Burgundy has established its own organization. At present, most of the regimes are indifferent to the establishment of the Four-leaf Clover Burgundy Kingdom. For them, there is probably no difference between the ship mother and the monster mother."
+ HMIN.0084.a:0 "Let Ah Qi move you."
+ HMIN.0084.b:0 "Another city has fallen."
+ 
+ HMIN.0085.t:0 "Deccan's New Order"
+ HMIN.0085.desc:0 "For a long time, the vast plateau of Deccan has discouraged countless people, and was almost never completely controlled by conquerors from the north. However, unlike Hindu or Muslim colleagues, they believe in [kechengzhe. GetTitledFirstName] as a magical warlord, completed this great cause that the Maurya Dynasty did not complete, and became the co-lord of the entire Deccan Plateau. The task of the new empire is to pacify the complex social relations as soon as possible and find a way to remove the caste system The enslaved people, if they can, complete the great unification of India from the south."
+ HMIN.0085.a:0 "They are here!"
+ HMIN.0085.b:0 "The conqueror who died with the wind."
+ 
+ HMIN.0086.t:0 "Pangaluosi advances"
+ HMIN.0086.desc:0 "The rich Bay of Bengal has been occupied and ravaged by [Root.GetTitledFirstName] and its phantom army. This area has always been the naval gateway for the Central Dynasty army to enter the map. Embarrassed, then the whole world is likely to encounter catastrophe. At the same time, guests from the country of the sunrise began to frequent this place. If Sri Lanka is taken again, and the control of the West Indies Sea is fully guaranteed, [Root.GetTitledFirstName] may be. Consider forming a strong combined fleet."
+ HMIN.0086.a:0 "For the lily of the valley, give your heart!"
+ HMIN.0086.b:0 "All the evils in this world!"
+ 
+ HMIN.0087.t:0 "New Indian Conqueror"
+ HMIN.0087.desc:0 "While Christianity and Xingyue believers continue to persecute the followers of Huameng polytheism, the vast Indian subcontinent seems to have never appeared even a single idol worshiper. However, this status quo is now Was broken, the warlord [Root.GetTitledFirstName] from northern India brought a huge army and conquered many areas of Rajasthan. Now, the great conqueror [Root.GetTitledFirstName] shows the Hinduism found by the army The sacred object, according to the oriental theory of celestial and human induction, officially ascended the throne in [Root.Capital.GetName]. Now, the entire vast Indian subcontinent is surging against this fallen Kshatriya."
+ HMIN.0087.a:0 "The swarm is a decisive step in the subcontinent."
+ HMIN.0087.b:0 "Another city has fallen."
+ 
+ HMIN.0088.t:0 "Samarkand is marching"
+ HMIN.0088.desc:0 "The northern region that has been divided by Persia for a long time, a fragile joint moaning under the body of a wicked nomad conqueror, now finally ushered in the dawn in the darkness, the mighty [kechengzhe.GetTitledFirstName] Having basically quelled the armed forces opposed to itself in the area, and carried out an extraordinary large-scale military parade on the streets of Samarkand, how dangerous is it for a warlord who is surrounded by the Muslim world? I believe time will. Give us a real answer."
+ HMIN.0088.a:0 "Be careful of the ice surface of Lake Chud."
+ HMIN.0088.b:0 "Another city has fallen."
+ 
+ HMIN.0090.t:0 "New Journey"
+ HMIN.0090.desc:0 ""It is not from the birth of mankind that there has been a belief in fantasy and cuteness. Just like there is no immortal person, there will be no permanent church and country. Then, my mission is to make our faith shine with the most dazzling light in my generation. "The leader of the swarm uttered a low and dry laugh, making the secretary ship tremble, like falling into an infinite black hole, feeling a bone-to-heart cold." Anyway, if our enemies are going to perish, then Be vigorous before now! "Looking at the stage, countless people are waiting for the sacred judge of the will of the swarm." We have defeated the strong enemies of the East and the West, and held a banquet in front of their temple. Everyone trembles because we are strong enough. ! Please take a look at the smoke and dust rolled up by the Arab conquerors, and take a look at the torture rack rolled up for us by our beloved Holy See. We have already picked up the sword for Ella, so never let it go! We are born of the sword, we die of the sword, we are the sacred judge of the great fantasy brain-controlled education, our journey is the stars and the sea! Now that the stars and the sea are in front, I hereby announce that the great expedition of Hey Coal Mine begins today! ""
+ HMIN.0090.a:0 "Our journey is glory and dream!"
+ HMIN.0090.b:0 "The enemy swoops straight up and descends sharply!"
+ 
+   declared_major_war_hm_prowess_3_tt:0 "The Prowess Disciple can only start a war of conquest at this level when it is at a military struggle level of 4 or higher."
+  
+ HMIN.0092.t:0 "The Resurrection of Paiqu Warriors"
+ HMIN.0092.desc:0 "For a long time, the power organs headed by the Holy See always think that Huan Meng and her army are not worth mentioning. Since the destruction of the last little beaver army, there has never been an organization on the land of Europe. However, the recent conflicts are ending with the miserable defeat of the righteous careerists, and the help papers are sent to Rome like snowflakes-obvious things have happened, and the forces of Fantasies are resurrecting. , The just cause of mankind is facing serious threats. In view of this, the authority of the Holy See has decided to open a new front, recruiting those Patric warriors who abandoned the shadows in the ancient times to re-enter the just war. From this day on, all and fantasy Allies who are cute and warring will be supported by the Pachu Warriors!"
+ HMIN.0092.a:0 "They will perish a second time."
+ HMIN.0092.b:0 "For our just cause!"
+ 
+ HMIN.0093.t:0 "Leek Theory"
+ HMIN.0093.desc:0 "Mediocre civilians with some savings are the cows of the Holy See, and as long as they are harvested regularly, these people will continue to grow, just like leeks. The victory of the war with the magical cuteness made us give up and continue to carry on leeks. The just cause of breeding and guidance is becoming more and more dangerous on the front line. It is time to embrace this advanced theory again. From this day on, all allies who are at war with Huan Meng will be guided by the advanced experience of cutting leek!"
+ HMIN.0093.a:0 "Dear Leek, your landlord master is here."
+ HMIN.0093.b:0 "Do it yourself!"
+ 
+ HMIN.0094.t:0 "Holy Bird Guard"
+ HMIN.0094.desc:0 "During a public mass in the Vatican, the pope announced an important news: a high-ranking official who had been defeated in the cruel political struggle of the idol worshippers had sought out the Holy See For political asylum, he now allowed him to organize a unit called the Peace and Anti-Zhailand Salvation Army to serve the Holy See. Soon after, this new dignitarian gave a speech on why I took the road to fight against poisonous explosives, "Now , I can tell you clearly that I have officially participated in the camp of the Catholic Church. I will be grateful for the Huan Meng Cult and will eliminate them in other ways. Jihad is my biggest hobby, and the Peace and Anti-Zhailand Salvation Army is like my child, so I will carry out the necessary management. You will see me on the battlefield of jihad in the future, let's do everything! Still the same sentence, good start and good end, goodbye bye. "From this day on, all allies who are at war with Huan Meng will be supported by the advisors of the Holy Bird Guard!"
+ HMIN.0094.a:0 "They went astray."
+ HMIN.0094.b:0 "Did you see, they were also believers in phantasmagoria!"
+ 
+ HMIN.0095.t:0 "Holy Bird Knights"
+ HMIN.0095.desc:0 "Because the believers of the phantom are in danger of returning to the pinnacle of power again, the Cardinal Council re-evaluated the threat. After the usual wrangling, a new knight order was established in Rome. Unlike other knights, the members of this knight are composed of newly attached and converted former phantom disciples and their heirs. For the apostle, these powerful knights are a united battle against phantom. A great sample of work shouldn’t have appeared directly on the battlefield, but those secular lords don’t think so-those newly converted believers should shed their last drop of blood on the battlefield. From this day on, all and fantasy Allies who are cute and fighting will be supported by the cavalry of the powerful knights!"
+ HMIN.0095.a:0 "They went astray."
+ HMIN.0095.b:0 "Let those phantom cute people wait and see if I send knights to send you all to heaven!"
+ 
+  HMIN.0096.t:0 "Public Relations Department is in action"
+ HMIN.0096.desc:0 "The appearance of the new guards of the Pontifical Guard did not reverse the atmosphere of hostility to the Pontifical in Rome. Therefore, the accident also followed. However, the Pope’s guard has difficulty holding up swords to resist these mobs-but the Good Bird Guard is not in Rome now. The frustrated Pope had to order his most trusted glib merchants to temporarily organize Italian mercenaries to suppress these phantom believers. This operation was a success. All the mercenaries have tasted the blood of the idol worshipers. Because there are so many enemies inside and outside the Holy See, the Pontifical decided to keep these mercenaries and appointed them to engage in heretical interrogation and the Holy See For espionage work, the outside world calls them the Public Relations Department of the Holy See. Naturally, the Public Relations Department of the Holy See is to publicize their enemies physically for the sake of the apostle. Naturally, the dead cannot speak. From this day on, all allies who are at war with Huan Meng , Will be supported by the stability maintenance of the Public Relations Department of the Holy See!"
+ HMIN.0096.a:0 "Come on, Director Yang."
+ HMIN.0096.b:0 "Don't talk about state affairs!"
+ 
+ HMIN.0097.t:0 "The Pope's Supplementary Speech"
+ HMIN.0097.desc:0 "The pope's appointment of people who defected from Huan Meng to form a guard has aroused dissatisfaction with many Catholic lords. In order to quell this incident, the kind-hearted pontiff decided to organize a public speech." Regarding my captain of the guard, many of my faithful may not know him yet. He is the guardian of the Lord who defeated the idol worshipers. The message box of the Holy See is full of dissatisfaction with him. These are all because he has posted a bulletin for a while, saying that he is going to change from the fantasy to the righteous faith. Later, he will become a devout Christian, and then he will be a sinister man. Torn the communiqué, nothing more. The so-called betrayal, twenty-five sons, is purely made up of the brains of a few extreme fanciful believers. I hope members of the Catholic Church can treat this captain of the guard rationally, and do not cast doubt on his character because of the remarks of extreme believers. If you like his guards, pay attention to it. This year, it would be nice to pay more eleven taxes. Don't participate too much in the argument. "Soon after, the apostle decided to levy a new special tax on Huan Meng in order to support these armed forces, which will support the ever-growing armed forces. From this day on, all allies who are at war with Huan Meng will be Obtained permission to impose a special tax on Phantom Moe!"
+ HMIN.0097.a:0 "Knock the bone to suck the marrow."
+ HMIN.0097.b:0 "Money comes first!"
+ 
+ HMIN.0098.t:0 "Rebuild St. Xuwen's Fort"
+ HMIN.0098.desc:0 "The huge Fort St. Xuwen is one of the few remnants of the Western Roman Empire in the world. It has overly heavy walls and five huge towers. It is said that during the One Year War, countless soldiers from Attack here to hunt down the illusionists in the empire in the name of fighting Attila. With the inevitable decline of Paiqu, almost no one visits this castle, and the pope only uses one-third of the five towers. Layer, leaving the remaining part as a bat’s lair and a testimony to the power of the Papal State. Now, this sad state of affairs has ended, and the new anti-zhai alliance will re-strengthen the ancient fortresses to fight against the increasingly crazy phantasmal forces. , As the saying goes, enter the Pure Land of Bliss, and retreat to hell! From this day on, all allies who are at war with Huan Meng will be supported by the cursed Saint Xuwen Fortress!"
+ HMIN.0098.a:0 "Sooner or later, the dragon flame will spray on your head."
+ HMIN.0098.b:0 "Our prestige is invincible!"
+ 
+ HMIN.0099.t:0 "If loyalty is not thorough, it means completely disloyal!"
+ HMIN.0099.desc:0 "Fantasy believers are continuing to win. Many years ago, they were sparks of fire, and now they are really burning. Although there is no lack of precedents in history for this epic rise, it is happening. There is indeed a magical power in contemporary times. As the Huan Meng warlord frequently demonstrated their powerful national power, those Huan Meng believers who lived under the protection of other religions also began to become confident, and most of the feudal lord still maintained a limited suppression of them. However, the ban on autonomous cities has been lifted, because whether it is a merchant or a lower-class noble, the legendary gold coins from the remote port area are both irresistible and mesmerizing. Some people are quickly turning to the sympathy of the phantasmagoria. In order to prevent the extension of this trend, with the acquiescence of the lord, more Paiqu group mercenaries were hired. When they began to suppress the tax resistance movement in autonomous cities, all of them were walking poisonous insects. Citizens While we are chilling, blood is sprinkling absolute loyalty naked on the white streets of horror."
+ HMIN.0099.a:0 "Unrestricted Fighting Citizen's Scraps"
+ HMIN.0099.b:0 "First loyalty leads to loyalty, and finally realizes mutual loyalty!"
+ 
+ HMIN.0100.t:0 "Going up the mountains to the countryside!"
+ HMIN.0100.desc:0 "Huanmeng is madly impacting the original world order, so the former rule of the hardcore alliance is no longer necessary for stability. In order to prevent being completely driven out of the weakly guarded area, the lord users are madly sending manpower. Go to the countryside to expand your power, but will this really have a good effect?"
+ HMIN.0100.a:0 "Useless and useless, centrifugal from Germany"
+ HMIN.0100.b:0 "Ahahahahaha!"
+  HMIN.0101.t:0 "Huanmeng is winning in an all-round way!"
+ HMIN.0101.desc:0 "A single spark can start a prairie fire. Even the humble phantasy can become a giant one day. Now, the most worried thing about the Pontifical of Rome and the Caliph of Baghdad has finally happened. After achieving a series of miraculous and shining victories, Huanmeng is entering the ranks of the most dominant countries in the entire Eurasian continent. Merchants from all over have gathered in the port area, and various items are being transported to the port area along with the unsinkable Ark. All over the world, of course, the fanbook for missionary use is indispensable. With the growth of Huan Meng, the anti-Huan Meng forces have become more crazy. A member of the Anti-Walled Alliance from the Central Kingdom has organized many groups of wild warriors. Attacks in the countryside may be possible. The civilians and merchants who come into contact with the Huan Meng believers, when they identify the target, or simply lack money, they will attack the nearest settlement, kill all the inhabitants, and burn all inconspicuous objects. The Pioneer in Rome The Christian lords who are warning the use of these mercenary groups are more like a brutal massacre of the brothers of the same clan than fighting against Huan Meng. Under the threat of breaking the door, the knights in the castle rushed out and killed these people in the swamp. In the ground, the king got his commission back as he wished."
+ HMIN.0101.a:0 "We are witnessing history!"
+ HMIN.0101.b:0 "We must be in the same boat!"
+ 
+ HMIN.0102.t:0 "Union Fleet Riot!"
+ HMIN.0102.desc:0 "A worrisome news came from the edge of the Chinese Empire. A group of troops wearing strange armor left the neoforce containment facility in Tonghua, and after defeating the repressive army of the Chinese Empire, they became grandiose. They came to the sandbar, and it is said that they won’t have any livelihoods wherever they go."
+ HMIN.0102.a:0 "???"
+ HMIN.0102.b:0 "!!!"
+ 
+ HMIN.0104.t:0 "A strong enemy appears!"
+ HMIN.0104.desc:0 "[war.GetName] has already started, but the enemy who was panicked in fear suddenly received the support of a huge army? Where did this army come from, and why did it appear? All the mysteries can only be won. Only after this war can we know."
+ HMIN.0104.a:0 "Paratis?"
+ HMIN.0104.b:0 "!!!"
+ 
+ as_light_nieto:0 "Black Nieto"
+ as_light_nieto_flavor:0 "#F deleted #!"
+ as_heavy_nieto:0 "Mecurous"
+ as_heavy_nieto_flavor:0 "#F deleted #!"
+ 
+ nieto:0 "[nieto|E]"
+  game_concept_nieto:0 "Nieto"
+ game_concept_nieto_desc:0 "Nieto is a kind of strange [men_at_arms|E], they have very unusual durability and combat continuation ability, they are better at shielding their allies during retreat than chasing, and they don’t even look like humans. Nieto will not be restrained by other soldiers."
+ nieto_damage_add:1 "[nieto|E][damage|E]"
+ nieto_damage_mult:0 "$nieto_damage_add$"
+ nieto_toughness_add:1 "[nieto|E][toughness|E]"
+ nieto_toughness_mult:0 "$nieto_toughness_add$"
+ nieto_pursuit_add:1 "[nieto|E][pursuit|E]"
+ nieto_pursuit_mult:0 "$nieto_pursuit_add$"
+ nieto_screen_add:1 "[nieto|E][screen|E]"
+ nieto_screen_mult:0 "$nieto_screen_add$"
+   

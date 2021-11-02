@@ -1,0 +1,135 @@
+﻿# This window is just for testing. You can spawn it from the console menu.
+window = {
+	name = "kings_bork_window"
+
+	parentanchor = hcenter|vcenter
+	size = { 100% 100% }
+	layer = top
+	filter_mouse = all
+	alwaystransparent = no
+
+
+	#background elements
+	icon = {
+		size = { 100% 100% }
+		texture = "gfx/interface/illustrations/character_view/throneroom_hm_other_qingrenjie.dds"
+		#texture = "gfx/interface/illustrations/character_view/throneroom_hm_other_dating.dds"
+	}
+	
+	## end back ground
+	state = {
+		name = _show
+		duration = .01
+		trigger_on_create = yes
+		on_start = "[GetScriptedGui('getsome_cc').Execute( GuiScope.SetRoot(GetPlayer.MakeScope).End )]"
+		on_start = "[GetScriptedGui('my_hunjian').Execute( GuiScope.SetRoot(GetPlayer.MakeScope).End )]"
+	}
+	movable = no
+	
+	
+	portrait_court_10 = {
+		position = { -300 -90}
+		visible = "[Character.IsValid]"
+		datacontext = "[GetPlayer.MakeScope.Var('asker')]"
+		datacontext = "[Scope.GetCharacter]"
+		parentanchor = hcenter|vcenter
+	}
+
+	
+	icon = {
+		texture = "gfx/g_back.png"
+		parentanchor = vcenter|right
+		size = { 300 530 }
+		position = { 0 -230 }
+	
+	}
+	
+	button_standard = {
+		parentanchor = vcenter|right
+		position = { -50 -460 }
+		text = "Switch skin"
+		datacontext = "[GetScriptedGui( 'portrait_mishujian_transfer' )]"
+		visible = "[ScriptedGui.IsShown( GuiScope.SetRoot( Character.MakeScope ).AddScope( 'player', GetPlayer.MakeScope ).End )]"
+		datacontext = "[GetScriptedGui( 'portrait_transfer_add_mishujian' )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		
+	}
+	button_standard = {
+		parentanchor = vcenter|right
+		position = { -50 -420 }
+		text = "Broken state"
+		datacontext = "[GetScriptedGui( 'portrait_break_add' )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	button_standard = {
+		parentanchor = vcenter|right
+		position = { -50 -380 }
+		text = "Normal state"
+		datacontext = "[GetScriptedGui( 'portrait_break_remove' )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	#Vassals	
+	scrollbox = {
+		parentanchor = right|vcenter			
+		layoutpolicy_horizontal = expanding
+		layoutpolicy_vertical = expanding
+		size = { 300 350 }
+		position = { 10 -180 }
+
+		blockoverride "scrollbox_content" {
+			vbox_list_interaction_title_selection = {
+
+				datamodel = "[GetPlayer.MakeScope.GetList('hunjian_consistorium_list')]"
+				
+				layoutpolicy_horizontal = expanding
+				spacing = 3
+
+			item = {
+				
+				button_standard = {
+					name = "vassal_button"
+					layoutpolicy_horizontal = expanding
+					layoutpolicy_vertical = expanding
+					size = { 0 80 }
+					datacontext = "[Scope.GetCharacter]"
+					## add_onlick for custom func
+
+					##
+					onclick = "[GetScriptedGui('checkers').Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).AddScope('target', Scope.GetCharacter.MakeScope ).End )]"
+					down = "[GetScriptedGui('g_sel').IsShown( GuiScope.SetRoot(  GetPlayer.MakeScope).AddScope('target', Scope.GetCharacter.MakeScope ).End )]"
+
+					button_ignore = none
+
+					tooltip = "[Scope.GetCharacter.GetTooltip]"
+					using = tooltip_es
+
+						text_single = {
+							name = "text1"
+							layoutpolicy_horizontal = expanding
+							text = "[Character.GetNameNoTooltip]"
+							position = { 90 0 }
+						}
+
+						portrait_head_small = {
+							parentanchor = vcenter
+							size = { 50 50 }
+							position = {15 15 }
+						}												
+
+				}
+
+
+			}
+	
+			}
+		}
+	}				
+	button_standard = { #exits test gui
+        parentanchor = right|bottom
+		position = { 0 -10 }
+        text = "Close interface"
+		shortcut = "close_window"
+        onclick = "[ExecuteConsoleCommand('GUI.ClearWidgets kings_bork_window')]"
+    }
+
+}

@@ -1,0 +1,40 @@
+﻿l_english:
+ defend_realm.0001.t:0 "Armed Mobilization"
+ defend_realm.0001.desc:0 "The country is threatened by foreign invaders [attacker.GetTitledFirstName]. We must unite to defend our glorious land from evil enemies. Please mobilize your troops to protect your territory and wealth , Repel those evil invaders.\n\n Attribution [invaded_liege.GetTitledFirstName]"
+ defend_realm.0001.a:0 "Defend your territory against foreign invaders [attacker.GetTitledFirstName]"
+ defend_realm.0001.b:0 "Do not join [invaded_liege.GetTitledFirstName] in the war against [attacker.GetTitledFirstName]"
+ 
+ defend_realm.0002.t:0 "Armed Mobilization"
+ defend_realm.0002.desc:0 "We are launching a sacred war against [defender.GetTitledFirstName]. As a warship governor in charge of combat missions, I hope you will take the heavy responsibility to launch an offensive and bring justice and freedom to Huan Meng. Please mobilize the army to join the war as soon as possible.\n\n Sign [invaded_attacker_liege.GetTitledFirstName]"
+ defend_realm.0002.a:0 "Join the front of the offensive [defender.GetTitledFirstName]"
+ defend_realm.0002.b:0 "Do not join [invaded_liege_war.GetTitledFirstName] in the war against [defender.GetTitledFirstName]"
+
+ rule_defend_realm_decision_game_rules:0 "Defend the Realm-Choice"
+ setting_defend_realm_choose:0 "default"
+ setting_defend_realm_choose_desc:0 "The vassals will selectively join the war against the invaders, depending on some parameters and how much they like the lord."
+ setting_defend_realm_off:0 "Close"
+ setting_defend_realm_off_desc:0 "Disable the rule of vassal participation in the defense of the land"
+ setting_defend_realm_forced:0 "Force"
+ setting_defend_realm_forced_desc:0 "Force the vassal to participate in the war against the invaders with his lord"
+
+ rule_defend_realm_vassals_game_rules:0 "Defend the Land-Participants"
+ setting_defend_realm_only_direct_vassals:0 "Default"
+ setting_defend_realm_only_direct_vassals_desc:0 "Only the direct vassals of the invaded character will participate in the war"
+ setting_defend_realm_all_realm_vassals:0 "Total Mobilization"
+ setting_defend_realm_all_realm_vassals_desc:0 "All lords in the land are mobilized to participate in the war against invasion"
+
+ rule_defend_realm_call_co_game_rules:0 "Defend the Land-Allies"
+ setting_defend_realm_call_not_co:0 "Default"
+ setting_defend_realm_call_not_co_desc:0 "Vassals participating in the defense of the country cannot call their allies"
+ setting_defend_realm_call_co:0 "Affected"
+ setting_defend_realm_call_co_desc:0 "If you lose your title after a successful invasion, the vassals involved in the defense of the land will also call their allies"
+ setting_defend_realm_call_co_all:0 "Everyone"
+ setting_defend_realm_call_co_all_desc:0 "All vassals can call their allies to participate in the war."
+
+
+ call_ally_co_belligerent_interaction:0 "Summon allies to fight the invaders"
+ CO_BELLIGERENT_CALL:1 "has not joined the camp against the invaders"
+
+ defend_realm_opinion:0 "Join the war against aggression"
+ ignore_defend_realm_opinion:0 "Did not join the war against aggression"
+ ignore_defend_realm_2_opinion:0 "Did not join the war against aggression"

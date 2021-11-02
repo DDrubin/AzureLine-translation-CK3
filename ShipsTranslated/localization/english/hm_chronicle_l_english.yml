@@ -1,0 +1,508 @@
+﻿l_english:
+   
+  chronicle_contents_military_ranke:0 "@military_ranke_icon! Become a senior officer\n"
+ chronicle_contents_flag_boss:0 "@flag_boss_icon! became a high lord of the Minato Joint Conference\n"
+ chronicle_contents_zongcan_qinwu:0 "@zongcan_qinwu_icon! became a service officer of the General Staff\n"
+ chronicle_contents_misit_guard:0 "@misit_guard_icon! Graduated from Naval University\n"
+ chronicle_contents_kingsguard:0 "@kingsguard_icon! Give up inheritance rights and become a guardian of the speaker\n"
+    
+ chronicle_contents_hunjian.1:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName1')]
+ chronicle_contents_hm_narry.1:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle1')]
+ chronicle_contents_hm_concubine.1:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName1')]
+ chronicle_contents_hm_chlid.1:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle1')]\n"
+ chronicle_contents_great_misit.1:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName1')] [great_misit|E]\n"
+ chronicle_contents_hunjian.2:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName2')]
+ chronicle_contents_hm_narry.2:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle2')]
+ chronicle_contents_hm_concubine.2:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName2')]
+ chronicle_contents_hm_chlid.2:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle2')]\n"
+ chronicle_contents_great_misit.2:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName2')] [great_misit|E]\n"
+ chronicle_contents_hunjian.3:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName3')]
+ chronicle_contents_hm_narry.3:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle3')]
+ chronicle_contents_hm_concubine.3:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName3')]
+ chronicle_contents_hm_chlid.3:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle3')]\n"
+ chronicle_contents_great_misit.3:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName3')] [great_misit|E]\n"
+ chronicle_contents_hunjian.4:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName4')]
+ chronicle_contents_hm_narry.4:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle4')]
+ chronicle_contents_hm_concubine.4:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName4')]
+ chronicle_contents_hm_chlid.4:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle4')]\n"
+ chronicle_contents_great_misit.4:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName4')] [great_misit|E]\n"
+ chronicle_contents_hunjian.5:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName5')]
+ chronicle_contents_hm_narry.5:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle5')]
+ chronicle_contents_hm_concubine.5:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName5')]
+ chronicle_contents_hm_chlid.5:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle5')]\n"
+ chronicle_contents_great_misit.5:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName5')] [great_misit|E]\n"
+ chronicle_contents_hunjian.6:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName6')]
+ chronicle_contents_hm_narry.6:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle6')]
+ chronicle_contents_hm_concubine.6:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName6')]
+ chronicle_contents_hm_chlid.6:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle6')]\n"
+ chronicle_contents_great_misit.6:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName6')] [great_misit|E]\n"
+ chronicle_contents_hunjian.7:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName7')]
+ chronicle_contents_hm_narry.7:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle7')]
+ chronicle_contents_hm_concubine.7:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName7')]
+ chronicle_contents_hm_chlid.7:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle7')]\n"
+ chronicle_contents_great_misit.7:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName7')] [great_misit|E]\n"
+ chronicle_contents_hunjian.8:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName8')]
+ chronicle_contents_hm_narry.8:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle8')]
+ chronicle_contents_hm_concubine.8:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName8')]
+ chronicle_contents_hm_chlid.8:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle8')]\n"
+ chronicle_contents_great_misit.8:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName8')] [great_misit|E]\n"
+ chronicle_contents_hunjian.9:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName9')]
+  chronicle_contents_hm_narry.9:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle9')]
+ chronicle_contents_hm_concubine.9:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName9')]
+ chronicle_contents_hm_chlid.9:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle9')]\n"
+ chronicle_contents_great_misit.9:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName9')] [great_misit|E]\n"
+ chronicle_contents_hunjian.10:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName10')]
+ chronicle_contents_hm_narry.10:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle10')]
+ chronicle_contents_hm_concubine.10:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName10')]
+ chronicle_contents_hm_chlid.10:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle10')]\n"
+ chronicle_contents_great_misit.10:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName10')] [great_misit|E]\n"
+ chronicle_contents_hunjian.11:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName11')]
+ chronicle_contents_hm_narry.11:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle11')]
+ chronicle_contents_hm_concubine.11:0 "@concubinage_icon! became the [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName11')]
+ chronicle_contents_hm_chlid.11:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle11')]\n"
+ chronicle_contents_great_misit.11:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName11')] [great_misit|E]\n"
+ chronicle_contents_hunjian.12:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName12')]
+ chronicle_contents_hm_narry.12:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle12')]
+ chronicle_contents_hm_concubine.12:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName12')]
+ chronicle_contents_hm_chlid.12:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle12')]\n"
+ chronicle_contents_great_misit.12:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName12')] [great_misit|E]\n"
+ chronicle_contents_hunjian.13:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName13')]
+ chronicle_contents_hm_narry.13:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle13')]
+ chronicle_contents_hm_concubine.13:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName13')]
+ chronicle_contents_hm_chlid.13:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle13')]\n"
+ chronicle_contents_great_misit.13:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName13')] [great_misit|E]\n"
+ chronicle_contents_hunjian.14:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName14')]
+ chronicle_contents_hm_narry.14:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle14')]
+ chronicle_contents_hm_concubine.14:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName14')]
+ chronicle_contents_hm_chlid.14:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle14')]\n"
+ chronicle_contents_great_misit.14:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName14')] [great_misit|E]\n"
+ chronicle_contents_hunjian.15:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName15')]
+  chronicle_contents_hm_narry.15:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle15')]
+ chronicle_contents_hm_concubine.15:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName15')]
+ chronicle_contents_hm_chlid.15:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle15')]\n"
+ chronicle_contents_great_misit.15:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName15')] [great_misit|E]\n"
+ chronicle_contents_hunjian.16:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName16')]
+ chronicle_contents_hm_narry.16:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle16')]
+ chronicle_contents_hm_concubine.16:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName16')]
+ chronicle_contents_hm_chlid.16:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle16')]\n"
+ chronicle_contents_great_misit.16:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName16')] [great_misit|E]\n"
+ chronicle_contents_hunjian.17:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName17')]
+ chronicle_contents_hm_narry.17:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle17')]
+ chronicle_contents_hm_concubine.17:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName17')]
+ chronicle_contents_hm_chlid.17:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle17')]\n"
+ chronicle_contents_great_misit.17:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName17')] [great_misit|E]\n"
+ chronicle_contents_hunjian.18:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName18')]
+ chronicle_contents_hm_narry.18:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle18')]
+ chronicle_contents_hm_concubine.18:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName18')]
+ chronicle_contents_hm_chlid.18:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle18')]\n"
+ chronicle_contents_great_misit.18:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName18')] [great_misit|E]\n"
+ chronicle_contents_hunjian.19:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName19')]
+ chronicle_contents_hm_narry.19:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle19')]
+ chronicle_contents_hm_concubine.19:0 "@concubinage_icon! became the [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName19')]
+ chronicle_contents_hm_chlid.19:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle19')]\n"
+ chronicle_contents_great_misit.19:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName19')] [great_misit|E]\n"
+ chronicle_contents_hunjian.20:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName20')]
+ chronicle_contents_hm_narry.20:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle20')]
+ chronicle_contents_hm_concubine.20:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName20')]
+ chronicle_contents_hm_chlid.20:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle20')]\n"
+ chronicle_contents_great_misit.20:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName20')] [great_misit|E]\n"
+ chronicle_contents_hunjian.21:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName21')]
+ chronicle_contents_hm_narry.21:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle21')]
+ chronicle_contents_hm_concubine.21:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName21')]
+ chronicle_contents_hm_chlid.21:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle21')]\n"
+ chronicle_contents_great_misit.21:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName21')] [great_misit|E]\n"
+ chronicle_contents_hunjian.22:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName22')]
+ chronicle_contents_hm_narry.22:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle22')]
+ chronicle_contents_hm_concubine.22:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName22')]
+ chronicle_contents_hm_chlid.22:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle22')]\n"
+ chronicle_contents_great_misit.22:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName22')] [great_misit|E]\n"
+ chronicle_contents_hunjian.23:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName23')]
+ chronicle_contents_hm_narry.23:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle23')]
+ chronicle_contents_hm_concubine.23:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName23')]
+ chronicle_contents_hm_chlid.23:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle23')]\n"
+  chronicle_contents_great_misit.23:0 "@great_misit_icon! has become [ROOT.Char.Custom('ChronicleCharacterName23')] [great_misit|E]\n"
+ chronicle_contents_hunjian.24:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName24')]
+ chronicle_contents_hm_narry.24:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle24')]
+ chronicle_contents_hm_concubine.24:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName24')]
+ chronicle_contents_hm_chlid.24:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle24')]\n"
+ chronicle_contents_great_misit.24:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName24')] [great_misit|E]\n"
+ chronicle_contents_hunjian.25:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName25')]
+ chronicle_contents_hm_narry.25:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle25')]
+ chronicle_contents_hm_concubine.25:0 "@concubinage_icon! became the [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName25')]
+ chronicle_contents_hm_chlid.25:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle25')]\n"
+ chronicle_contents_great_misit.25:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName25')] [great_misit|E]\n"
+ chronicle_contents_hunjian.26:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName26')]
+ chronicle_contents_hm_narry.26:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle26')]
+ chronicle_contents_hm_concubine.26:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName26')]
+ chronicle_contents_hm_chlid.26:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle26')]\n"
+ chronicle_contents_great_misit.26:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName26')] [great_misit|E]\n"
+ chronicle_contents_hunjian.27:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName27')]
+ chronicle_contents_hm_narry.27:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle27')]
+ chronicle_contents_hm_concubine.27:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName27')]
+ chronicle_contents_hm_chlid.27:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle27')]\n"
+ chronicle_contents_great_misit.27:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName27')] [great_misit|E]\n"
+ chronicle_contents_hunjian.28:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName28')]
+ chronicle_contents_hm_narry.28:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle28')]
+ chronicle_contents_hm_concubine.28:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName28')]
+ chronicle_contents_hm_chlid.28:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle28')]\n"
+ chronicle_contents_great_misit.28:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName28')] [great_misit|E]\n"
+ chronicle_contents_hunjian.29:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName29')]
+ chronicle_contents_hm_narry.29:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle29')]
+ chronicle_contents_hm_concubine.29:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName29')]
+ chronicle_contents_hm_chlid.29:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle29')]\n"
+ chronicle_contents_great_misit.29:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName29')] [great_misit|E]\n"
+ chronicle_contents_hunjian.30:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName30')]
+ chronicle_contents_hm_narry.30:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle30')]
+ chronicle_contents_hm_concubine.30:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName30')]
+ chronicle_contents_hm_chlid.30:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle30')]\n"
+ chronicle_contents_great_misit.30:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName30')] [great_misit|E]\n"
+ chronicle_contents_hunjian.31:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName31')]
+ chronicle_contents_hm_narry.31:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle31')]
+ chronicle_contents_hm_concubine.31:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName31')]
+ chronicle_contents_hm_chlid.31:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle31')]\n"
+ chronicle_contents_great_misit.31:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName31')] [great_misit|E]\n"
+ chronicle_contents_hunjian.32:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName32')]
+ chronicle_contents_hm_narry.32:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle32')]
+ chronicle_contents_hm_concubine.32:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName32')]
+ chronicle_contents_hm_chlid.32:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle32')]\n"
+ chronicle_contents_great_misit.32:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName32')] [great_misit|E]\n"
+ chronicle_contents_hunjian.33:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName33')]
+ chronicle_contents_hm_narry.33:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle33')]
+ chronicle_contents_hm_concubine.33:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName33')]
+ chronicle_contents_hm_chlid.33:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle33')]\n"
+ chronicle_contents_great_misit.33:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName33')] [great_misit|E]\n"
+ chronicle_contents_hunjian.34:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName34')]
+ chronicle_contents_hm_narry.34:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle34')]
+ chronicle_contents_hm_concubine.34:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName34')]
+ chronicle_contents_hm_chlid.34:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle34')]\n"
+ chronicle_contents_great_misit.34:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName34')] [great_misit|E]\n"
+ chronicle_contents_hunjian.35:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName35')]
+ chronicle_contents_hm_narry.35:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle35')]
+ chronicle_contents_hm_concubine.35:0 "@concubinage_icon! became the [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName35')]
+ chronicle_contents_hm_chlid.35:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle35')]\n"
+ chronicle_contents_great_misit.35:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName35')] [great_misit|E]\n"
+ chronicle_contents_hunjian.36:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName36')]
+ chronicle_contents_hm_narry.36:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle36')]
+ chronicle_contents_hm_concubine.36:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName36')]
+ chronicle_contents_hm_chlid.36:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle36')]\n"
+ chronicle_contents_great_misit.36:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName36')] [great_misit|E]\n"
+ chronicle_contents_hunjian.37:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName37')]
+ chronicle_contents_hm_narry.37:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle37')]
+ chronicle_contents_hm_concubine.37:0 "@concubinage_icon! became the [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName37')]
+ chronicle_contents_hm_chlid.37:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle37')]\n"
+ chronicle_contents_great_misit.37:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName37')] [great_misit|E]\n"
+ chronicle_contents_hunjian.38:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName38')]
+ chronicle_contents_hm_narry.38:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle38')]
+ chronicle_contents_hm_concubine.38:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName38')]
+ chronicle_contents_hm_chlid.38:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle38')]\n"
+ chronicle_contents_great_misit.38:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName38')] [great_misit|E]\n"
+ chronicle_contents_hunjian.39:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName39')]
+ chronicle_contents_hm_narry.39:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle39')]
+  chronicle_contents_hm_concubine.39:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName39')]
+ chronicle_contents_hm_chlid.39:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle39')]\n"
+ chronicle_contents_great_misit.39:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName39')] [great_misit|E]\n"
+ chronicle_contents_hunjian.40:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName40')]
+ chronicle_contents_hm_narry.40:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle40')]
+ chronicle_contents_hm_concubine.40:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName40')]
+ chronicle_contents_hm_chlid.40:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle40')]\n"
+ chronicle_contents_great_misit.40:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName40')] [great_misit|E]\n"
+ chronicle_contents_hunjian.41:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName41')]
+ chronicle_contents_hm_narry.41:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle41')]
+ chronicle_contents_hm_concubine.41:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName41')]
+ chronicle_contents_hm_chlid.41:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle41')]\n"
+ chronicle_contents_great_misit.41:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName41')] [great_misit|E]\n"
+ chronicle_contents_hunjian.42:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName42')]
+ chronicle_contents_hm_narry.42:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle42')]
+ chronicle_contents_hm_concubine.42:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName42')]
+ chronicle_contents_hm_chlid.42:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle42')]\n"
+ chronicle_contents_great_misit.42:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName42')] [great_misit|E]\n"
+ chronicle_contents_hunjian.43:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName43')]
+ chronicle_contents_hm_narry.43:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle43')]
+ chronicle_contents_hm_concubine.43:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName43')]
+ chronicle_contents_hm_chlid.43:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle43')]\n"
+ chronicle_contents_great_misit.43:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName43')] [great_misit|E]\n"
+ chronicle_contents_hunjian.44:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName44')]
+ chronicle_contents_hm_narry.44:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle44')]
+ chronicle_contents_hm_concubine.44:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName44')]
+ chronicle_contents_hm_chlid.44:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle44')]\n"
+ chronicle_contents_great_misit.44:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName44')] [great_misit|E]\n"
+ chronicle_contents_hunjian.45:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName45')]
+ chronicle_contents_hm_narry.45:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle45')]
+ chronicle_contents_hm_concubine.45:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName45')]
+ chronicle_contents_hm_chlid.45:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle45')]\n"
+ chronicle_contents_great_misit.45:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName45')] [great_misit|E]\n"
+ chronicle_contents_hunjian.46:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName46')]
+ chronicle_contents_hm_narry.46:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle46')]
+ chronicle_contents_hm_concubine.46:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName46')]
+ chronicle_contents_hm_chlid.46:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle46')]\n"
+ chronicle_contents_great_misit.46:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName46')] [great_misit|E]\n"
+ chronicle_contents_hunjian.47:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName47')]
+ chronicle_contents_hm_narry.47:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle47')]
+ chronicle_contents_hm_concubine.47:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName47')]
+ chronicle_contents_hm_chlid.47:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle47')]\n"
+ chronicle_contents_great_misit.47:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName47')] [great_misit|E]\n"
+ chronicle_contents_hunjian.48:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName48')]
+ chronicle_contents_hm_narry.48:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle48')]
+ chronicle_contents_hm_concubine.48:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName48')]
+ chronicle_contents_hm_chlid.48:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle48')]\n"
+ chronicle_contents_great_misit.48:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName48')] [great_misit|E]\n"
+ chronicle_contents_hunjian.49:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName49')]
+ chronicle_contents_hm_narry.49:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle49')]
+ chronicle_contents_hm_concubine.49:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName49')]
+ chronicle_contents_hm_chlid.49:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle49')]\n"
+ chronicle_contents_great_misit.49:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName49')] [great_misit|E]\n"
+ chronicle_contents_hunjian.50:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName50')]
+ chronicle_contents_hm_narry.50:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle50')]
+ chronicle_contents_hm_concubine.50:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName50')]
+ chronicle_contents_hm_chlid.50:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle50')]\n"
+ chronicle_contents_great_misit.50:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName50')] [great_misit|E]\n"
+ chronicle_contents_hunjian.51:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName51')]
+ chronicle_contents_hm_narry.51:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle51')]
+ chronicle_contents_hm_concubine.51:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName51')]
+ chronicle_contents_hm_chlid.51:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle51')]\n"
+ chronicle_contents_great_misit.51:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName51')] [great_misit|E]\n"
+ chronicle_contents_hunjian.52:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName52')]
+ chronicle_contents_hm_narry.52:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle52')]
+ chronicle_contents_hm_concubine.52:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName52')]
+ chronicle_contents_hm_chlid.52:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle52')]\n"
+ chronicle_contents_great_misit.52:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName52')] [great_misit|E]\n"
+ chronicle_contents_hunjian.53:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName53')]
+ chronicle_contents_hm_narry.53:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle53')]
+ chronicle_contents_hm_concubine.53:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName53')]
+ chronicle_contents_hm_chlid.53:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle53')]\n"
+ chronicle_contents_great_misit.53:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName53')] [great_misit|E]\n"
+ chronicle_contents_hunjian.54:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName54')]
+ chronicle_contents_hm_narry.54:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle54')]
+ chronicle_contents_hm_concubine.54:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName54')]
+ chronicle_contents_hm_chlid.54:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle54')]\n"
+ chronicle_contents_great_misit.54:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName54')] [great_misit|E]\n"
+ chronicle_contents_hunjian.55:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName55')]
+ chronicle_contents_hm_narry.55:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle55')]
+  chronicle_contents_hm_concubine.55:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName55')]
+ chronicle_contents_hm_chlid.55:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle55')]\n"
+ chronicle_contents_great_misit.55:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName55')] [great_misit|E]\n"
+ chronicle_contents_hunjian.56:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName56')]
+ chronicle_contents_hm_narry.56:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle56')]
+ chronicle_contents_hm_concubine.56:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName56')]
+ chronicle_contents_hm_chlid.56:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle56')]\n"
+ chronicle_contents_great_misit.56:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName56')] [great_misit|E]\n"
+ chronicle_contents_hunjian.57:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName57')]
+ chronicle_contents_hm_narry.57:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle57')]
+ chronicle_contents_hm_concubine.57:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName57')]
+ chronicle_contents_hm_chlid.57:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle57')]\n"
+ chronicle_contents_great_misit.57:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName57')] [great_misit|E]\n"
+ chronicle_contents_hunjian.58:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName58')]
+ chronicle_contents_hm_narry.58:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle58')]
+ chronicle_contents_hm_concubine.58:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName58')]
+ chronicle_contents_hm_chlid.58:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle58')]\n"
+ chronicle_contents_great_misit.58:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName58')] [great_misit|E]\n"
+ chronicle_contents_hunjian.59:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName59')]
+ chronicle_contents_hm_narry.59:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle59')]
+ chronicle_contents_hm_concubine.59:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName59')]
+ chronicle_contents_hm_chlid.59:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle59')]\n"
+ chronicle_contents_great_misit.59:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName59')] [great_misit|E]\n"
+ chronicle_contents_hunjian.60:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName60')]
+ chronicle_contents_hm_narry.60:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle60')]
+ chronicle_contents_hm_concubine.60:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName60')]
+ chronicle_contents_hm_chlid.60:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle60')]\n"
+ chronicle_contents_great_misit.60:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName60')] [great_misit|E]\n"
+ chronicle_contents_hunjian.61:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName61')]
+ chronicle_contents_hm_narry.61:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle61')]
+ chronicle_contents_hm_concubine.61:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName61')]
+ chronicle_contents_hm_chlid.61:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle61')]\n"
+ chronicle_contents_great_misit.61:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName61')] [great_misit|E]\n"
+ chronicle_contents_hunjian.62:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName62')]
+ chronicle_contents_hm_narry.62:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle62')]
+ chronicle_contents_hm_concubine.62:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName62')]
+ chronicle_contents_hm_chlid.62:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle62')]\n"
+ chronicle_contents_great_misit.62:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName62')] [great_misit|E]\n"
+ chronicle_contents_hunjian.63:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName63')]
+ chronicle_contents_hm_narry.63:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle63')]
+ chronicle_contents_hm_concubine.63:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName63')]
+ chronicle_contents_hm_chlid.63:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle63')]\n"
+ chronicle_contents_great_misit.63:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName63')] [great_misit|E]\n"
+ chronicle_contents_hunjian.64:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName64')]
+ chronicle_contents_hm_narry.64:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle64')]
+ chronicle_contents_hm_concubine.64:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName64')]
+ chronicle_contents_hm_chlid.64:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle64')]\n"
+ chronicle_contents_great_misit.64:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName64')] [great_misit|E]\n"
+ chronicle_contents_hunjian.65:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName65')]
+ chronicle_contents_hm_narry.65:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle65')]
+ chronicle_contents_hm_concubine.65:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName65')]
+ chronicle_contents_hm_chlid.65:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle65')]\n"
+ chronicle_contents_great_misit.65:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName65')] [great_misit|E]\n"
+ chronicle_contents_hunjian.66:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName66')]
+ chronicle_contents_hm_narry.66:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle66')]
+ chronicle_contents_hm_concubine.66:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName66')]
+ chronicle_contents_hm_chlid.66:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle66')]\n"
+ chronicle_contents_great_misit.66:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName66')] [great_misit|E]\n"
+ chronicle_contents_hunjian.67:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName67')]
+ chronicle_contents_hm_narry.67:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle67')]
+ chronicle_contents_hm_concubine.67:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName67')]
+ chronicle_contents_hm_chlid.67:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle67')]\n"
+ chronicle_contents_great_misit.67:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName67')] [great_misit|E]\n"
+ chronicle_contents_hunjian.68:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName68')]
+ chronicle_contents_hm_narry.68:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle68')]
+ chronicle_contents_hm_concubine.68:0 "@concubinage_icon! became the [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName68')]
+ chronicle_contents_hm_chlid.68:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle68')]\n"
+ chronicle_contents_great_misit.68:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName68')] [great_misit|E]\n"
+ chronicle_contents_hunjian.69:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName69')]
+ chronicle_contents_hm_narry.69:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle69')]
+ chronicle_contents_hm_concubine.69:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName69')]
+ chronicle_contents_hm_chlid.69:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle69')]\n"
+ chronicle_contents_great_misit.69:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName69')] [great_misit|E]\n"
+ chronicle_contents_hunjian.70:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName70')]
+ chronicle_contents_hm_narry.70:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle70')]
+ chronicle_contents_hm_concubine.70:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName70')]
+ chronicle_contents_hm_chlid.70:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle70')]\n"
+ chronicle_contents_great_misit.70:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName70')] [great_misit|E]\n"
+ chronicle_contents_hunjian.71:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName71')]
+ chronicle_contents_hm_narry.71:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle71')]
+ chronicle_contents_hm_concubine.71:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName71')]
+ chronicle_contents_hm_chlid.71:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle71')]\n"
+ chronicle_contents_great_misit.71:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName71')] [great_misit|E]\n"
+ chronicle_contents_hunjian.72:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName72')]
+  chronicle_contents_hm_narry.72:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle72')]
+ chronicle_contents_hm_concubine.72:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName72')]
+ chronicle_contents_hm_chlid.72:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle72')]\n"
+ chronicle_contents_great_misit.72:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName72')] [great_misit|E]\n"
+ chronicle_contents_hunjian.73:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName73')]
+ chronicle_contents_hm_narry.73:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle73')]
+ chronicle_contents_hm_concubine.73:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName73')]
+ chronicle_contents_hm_chlid.73:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle73')]\n"
+ chronicle_contents_great_misit.73:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName73')] [great_misit|E]\n"
+ chronicle_contents_hunjian.74:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName74')]
+ chronicle_contents_hm_narry.74:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle74')]
+ chronicle_contents_hm_concubine.74:0 "@concubinage_icon! became the [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName74')]
+ chronicle_contents_hm_chlid.74:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle74')]\n"
+ chronicle_contents_great_misit.74:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName74')] [great_misit|E]\n"
+ chronicle_contents_hunjian.75:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName75')]
+ chronicle_contents_hm_narry.75:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle75')]
+ chronicle_contents_hm_concubine.75:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName75')]
+ chronicle_contents_hm_chlid.75:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle75')]\n"
+ chronicle_contents_great_misit.75:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName75')] [great_misit|E]\n"
+ chronicle_contents_hunjian.76:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName76')]
+ chronicle_contents_hm_narry.76:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle76')]
+ chronicle_contents_hm_concubine.76:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName76')]
+ chronicle_contents_hm_chlid.76:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle76')]\n"
+ chronicle_contents_great_misit.76:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName76')] [great_misit|E]\n"
+ chronicle_contents_hunjian.77:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName77')]
+ chronicle_contents_hm_narry.77:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle77')]
+ chronicle_contents_hm_concubine.77:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName77')]
+ chronicle_contents_hm_chlid.77:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle77')]\n"
+ chronicle_contents_great_misit.77:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName77')] [great_misit|E]\n"
+ chronicle_contents_hunjian.78:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName78')]
+ chronicle_contents_hm_narry.78:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle78')]
+ chronicle_contents_hm_concubine.78:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName78')]
+ chronicle_contents_hm_chlid.78:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle78')]\n"
+ chronicle_contents_great_misit.78:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName78')] [great_misit|E]\n"
+ chronicle_contents_hunjian.79:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName79')]
+ chronicle_contents_hm_narry.79:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle79')]
+ chronicle_contents_hm_concubine.79:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName79')]
+ chronicle_contents_hm_chlid.79:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle79')]\n"
+ chronicle_contents_great_misit.79:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName79')] [great_misit|E]\n"
+ chronicle_contents_hunjian.80:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName80')]
+ chronicle_contents_hm_narry.80:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle80')]
+ chronicle_contents_hm_concubine.80:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName80')]
+ chronicle_contents_hm_chlid.80:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle80')]\n"
+ chronicle_contents_great_misit.80:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName80')] [great_misit|E]\n"
+ chronicle_contents_hunjian.81:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName81')]
+ chronicle_contents_hm_narry.81:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle81')]
+ chronicle_contents_hm_concubine.81:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName81')]
+ chronicle_contents_hm_chlid.81:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle81')]\n"
+ chronicle_contents_great_misit.81:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName81')] [great_misit|E]\n"
+ chronicle_contents_hunjian.82:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName82')]
+ chronicle_contents_hm_narry.82:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle82')]
+ chronicle_contents_hm_concubine.82:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName82')]
+ chronicle_contents_hm_chlid.82:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle82')]\n"
+ chronicle_contents_great_misit.82:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName82')] [great_misit|E]\n"
+ chronicle_contents_hunjian.83:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName83')]
+ chronicle_contents_hm_narry.83:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle83')]
+ chronicle_contents_hm_concubine.83:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName83')]
+ chronicle_contents_hm_chlid.83:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle83')]\n"
+ chronicle_contents_great_misit.83:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName83')] [great_misit|E]\n"
+ chronicle_contents_hunjian.84:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName84')]
+ chronicle_contents_hm_narry.84:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle84')]
+ chronicle_contents_hm_concubine.84:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName84')]
+ chronicle_contents_hm_chlid.84:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle84')]\n"
+ chronicle_contents_great_misit.84:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName84')] [great_misit|E]\n"
+ chronicle_contents_hunjian.85:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName85')]
+ chronicle_contents_hm_narry.85:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle85')]
+ chronicle_contents_hm_concubine.85:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName85')]
+ chronicle_contents_hm_chlid.85:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle85')]\n"
+ chronicle_contents_great_misit.85:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName85')] [great_misit|E]\n"
+ chronicle_contents_hunjian.86:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName86')]
+ chronicle_contents_hm_narry.86:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle86')]
+ chronicle_contents_hm_concubine.86:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName86')]
+ chronicle_contents_hm_chlid.86:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle86')]\n"
+ chronicle_contents_great_misit.86:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName86')] [great_misit|E]\n"
+ chronicle_contents_hunjian.87:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName87')]
+ chronicle_contents_hm_narry.87:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle87')]
+ chronicle_contents_hm_concubine.87:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName87')]
+ chronicle_contents_hm_chlid.87:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle87')]\n"
+ chronicle_contents_great_misit.87:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName87')] [great_misit|E]\n"
+ chronicle_contents_hunjian.88:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName88')]
+ chronicle_contents_hm_narry.88:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle88')]
+ chronicle_contents_hm_concubine.88:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName88')]
+ chronicle_contents_hm_chlid.88:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle88')]\n"
+ chronicle_contents_great_misit.88:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName88')] [great_misit|E]\n"
+  chronicle_contents_hunjian.89:0 "@oath_ring_icon! became the [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName89')]
+ chronicle_contents_hm_narry.89:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle89')]
+ chronicle_contents_hm_concubine.89:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName89')]
+ chronicle_contents_hm_chlid.89:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle89')]\n"
+ chronicle_contents_great_misit.89:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName89')] [great_misit|E]\n"
+ chronicle_contents_hunjian.90:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName90')]
+ chronicle_contents_hm_narry.90:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle90')]
+ chronicle_contents_hm_concubine.90:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName90')]
+ chronicle_contents_hm_chlid.90:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle90')]\n"
+ chronicle_contents_great_misit.90:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName90')] [great_misit|E]\n"
+ chronicle_contents_hunjian.91:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName91')]
+ chronicle_contents_hm_narry.91:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle91')]
+ chronicle_contents_hm_concubine.91:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName91')]
+ chronicle_contents_hm_chlid.91:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle91')]\n"
+ chronicle_contents_great_misit.91:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName91')] [great_misit|E]\n"
+ chronicle_contents_hunjian.92:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName92')]
+ chronicle_contents_hm_narry.92:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle92')]
+ chronicle_contents_hm_concubine.92:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName92')]
+ chronicle_contents_hm_chlid.92:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle92')]\n"
+ chronicle_contents_great_misit.92:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName92')] [great_misit|E]\n"
+ chronicle_contents_hunjian.93:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName93')]
+ chronicle_contents_hm_narry.93:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle93')]
+ chronicle_contents_hm_concubine.93:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName93')]
+ chronicle_contents_hm_chlid.93:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle93')]\n"
+ chronicle_contents_great_misit.93:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName93')] [great_misit|E]\n"
+ chronicle_contents_hunjian.94:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName94')]
+ chronicle_contents_hm_narry.94:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle94')]
+ chronicle_contents_hm_concubine.94:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName94')]
+ chronicle_contents_hm_chlid.94:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle94')]\n"
+ chronicle_contents_great_misit.94:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName94')] [great_misit|E]\n"
+ chronicle_contents_hunjian.95:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName95')]
+ chronicle_contents_hm_narry.95:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle95')]
+ chronicle_contents_hm_concubine.95:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName95')]
+ chronicle_contents_hm_chlid.95:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle95')]\n"
+ chronicle_contents_great_misit.95:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName95')] [great_misit|E]\n"
+ chronicle_contents_hunjian.96:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName96')]
+ chronicle_contents_hm_narry.96:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle96')]
+ chronicle_contents_hm_concubine.96:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName96')]
+ chronicle_contents_hm_chlid.96:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle96')]\n"
+ chronicle_contents_great_misit.96:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName96')] [great_misit|E]\n"
+ chronicle_contents_hunjian.97:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName97')]
+ chronicle_contents_hm_narry.97:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle97')]
+ chronicle_contents_hm_concubine.97:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName97')]
+ chronicle_contents_hm_chlid.97:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle97')]\n"
+ chronicle_contents_great_misit.97:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName97')] [great_misit|E]\n"
+ chronicle_contents_hunjian.98:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName98')]
+ chronicle_contents_hm_narry.98:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle98')]
+ chronicle_contents_hm_concubine.98:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName98')]
+ chronicle_contents_hm_chlid.98:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle98')]\n"
+ chronicle_contents_great_misit.98:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName98')] [great_misit|E]\n"
+ chronicle_contents_hunjian.99:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName99')]
+ chronicle_contents_hm_narry.99:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle99')]
+ chronicle_contents_hm_concubine.99:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName99')]
+ chronicle_contents_hm_chlid.99:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle99')]\n"
+ chronicle_contents_great_misit.99:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName99')] [great_misit|E]\n"
+ chronicle_contents_hunjian.100:0 "@oath_ring_icon! became [hunjian|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName100')]
+ chronicle_contents_hm_narry.100:0 "@spouse_icon! became [spouse|E]\n" of [ROOT.Char.Custom('ChronicleCharacterNameNoTitle100')]
+ chronicle_contents_hm_concubine.100:0 "@concubinage_icon! became [concubinage|E]\n" of [ROOT.Char.Custom('ChronicleCharacterName100')]
+ chronicle_contents_hm_chlid.100:0 "@pregnant_icon! gave birth to [ROOT.Char.Custom('ChronicleCharacterNameNoTitle100')]\n"
+ chronicle_contents_great_misit.100:0 "@great_misit_icon! became [ROOT.Char.Custom('ChronicleCharacterName100')] [great_misit|E]\n"

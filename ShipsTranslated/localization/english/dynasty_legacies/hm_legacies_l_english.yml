@@ -1,0 +1,39 @@
+﻿l_english:
+ hm_legacy_track_name:0 "Portland Heritage"
+ hm_legacy_track_desc:0 "One brick and one tile, build an ancestral port area"
+ 
+ hm_legacy_1_name:0 "Elementary Simulation"
+ hm_legacy_2_name:0 "Admiral's Encouragement"
+ hm_legacy_3_name:0 "Lucky Star"
+ hm_legacy_4_name:0 "Interception of Information"
+ hm_legacy_5_name:0 "Five years of expedition, three years of exercise"
+ 
+ hm_legacy_1_modifier:0 "Improve the experience gained from the expedition"
+ hm_legacy_2_modifier:0 "Improve the goodwill of the ship's mother"
+ hm_legacy_3_modifier:0 "The obtained ship girl will have better attributes"
+ hm_legacy_4_modifier:0 "Increase the probability of obtaining loot"
+ hm_legacy_5_modifier:0 "You can gain tactical experience through battle"
+ 
+ hm_legacy_1_effect:0 "Improve the experience gained from the expedition"
+ hm_legacy_2_effect:0 "Improve the goodwill of the ship's mother"
+ hm_legacy_3_effect:0 "The ship girl obtained will have better attributes"
+ hm_legacy_4_effect:0 "Increase the probability of obtaining loot"
+ hm_legacy_5_effect:0 "You can gain tactical experience through battle"
+ 
+ against_hm_of_legacy_track_name:0 "Fight against the cute storm"
+ against_hm_of_legacy_track_desc:0 "Directly kill the phantom and cute believers, repeat it once, and directly kill the phantom and cute believers!"
+ 
+ against_hm_of_legacy_track_1_name:0 "Pattern is very interesting"
+ against_hm_of_legacy_track_2_name:0 "Elite school is interesting and light"
+ against_hm_of_legacy_track_3_name:0 "Hachimoto Samurai"
+ against_hm_of_legacy_track_4_name:0 "Elite guns are light enough"
+ against_hm_of_legacy_track_5_name:0 "Arch Foot Light"
+ 
+ against_hm_next_of_legacy_track_name:0 "Start Operation "Justice""
+ against_hm_next_of_legacy_track_desc:0 "The thatch must be overfired, the stone must be overshot, the human must be changed, and the valley must be changed."
+ 
+ against_hm_next_of_legacy_track_1_name:0 "Mother Yizhong"
+ against_hm_next_of_legacy_track_2_name:0 "Chaos War Group"
+ against_hm_next_of_legacy_track_3_name:0 "Kuman Archer"
+ against_hm_next_of_legacy_track_4_name:0 "Akabi Samurai"
+ against_hm_next_of_legacy_track_5_name:0 "Iron Cannon is Light"
